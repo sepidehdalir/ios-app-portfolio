@@ -1,21 +1,25 @@
 # Stampvale: Photo Date Stamp
 
-**Deliberate dates and captions for job photos.**
+**Deliberate dates and captions for existing job photos.**
 
-Apply date and caption labels to existing photos while exporting separate copies. Single-photo export is free; Lifetime Pro adds batches and reusable presets.
+Choose a capture date, manual calendar date or no date; add a caption and optional typed place; preview a readable label and export a separate PNG copy. Originals stay unchanged. Single-photo export and every label style are free. A one-time Lifetime Pro purchase adds batches up to40photos and up to12reusable caption/style presets.
 
-[Dedicated showcase](https://github.com/sepidehdalir/stampvale-showcase)
+[Live product gallery](https://sepidehdalir.github.io/stampvale-showcase/) · [Dedicated showcase](https://github.com/sepidehdalir/stampvale-showcase) · [Privacy](https://sepidehdalir.github.io/stampvale-showcase/privacy.html) · [Support](https://sepidehdalir.github.io/stampvale-showcase/support.html)
+
+<img src="https://sepidehdalir.github.io/stampvale-showcase/iphone-01.jpg" alt="Stampvale final iPhone campaign with an authentic date/caption export" width="260"> <img src="https://sepidehdalir.github.io/stampvale-showcase/ipad-05.jpg" alt="Stampvale dedicated iPad campaign demonstrating Lifetime Pro batches and presets" width="360">
 
 ## Product and engineering
 
-Strict metadata interpretation; explicit missing-date handling; EXIF orientations; bounded sequential rendering; GPS-free output metadata. Dates are editable labels, not trusted evidence.
+Native Universal iPhone/iPad utility targeting iOS15+. Strict Gregorian capture metadata interpretation preserves the written calendar day; missing or invalid dates require an explicit choice. ImageIO/CoreGraphics/CoreText rendering normalizes all8EXIF orientations and exports8-bit sRGB PNGs without copied source metadata, including GPS. Sequential bounded rendering, partial/cancelled results, native sharing and add-only Photos save protect the workflow. StoreKit2 verifies entitlements and supports restoration.
 
-**Technology:** Swift, SwiftUI, PHPicker, ImageIO, Core Graphics, Core Text, StoreKit 2.
+**Technology:** Swift, SwiftUI, PHPicker, ImageIO, Core Graphics, Core Text, StoreKit2. No account, ads, AI service, tracking or product backend. Production source is private.
+
+Dated local evidence covers deterministic date/rendering/source-retention tests, native provider/export/preset/StoreKit cases, real picker and save/share workflows, phone/tablet Pro flows, large-type accessibility and dark landscape use. Physical execution, minimum-iOS15runtime and Apple-server paid billing remain unverified. Dates are editable labels, not trusted evidence. Campaigns use authentic final native UI and real app-rendered copies/previews with owned illustrative demonstration photos.
 
 ## Release status
 
-In production · not submitted or publicly released as of 2026-10-16.
+**Waiting for Review** — app version1.0(1) and Lifetime Pro were submitted together on October16,2026 at12:18PDT. Both statuses were verified in App Store Connect. TestFlight was skipped by publisher instruction. The app is not publicly released; manual release is selected.
 
-Status snapshot: October 16, 2026. Catalog availability and a review submission are different milestones.
+Status snapshot: October16,2026. Catalog availability and a review submission are different milestones. No demand, ranking or revenue claim.
 
 [← All iOS projects](../README.md)
