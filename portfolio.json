@@ -1,0 +1,141 @@
+{
+  "owner": "Sepideh Javanbakht Dalir",
+  "as_of": "2026-10-16",
+  "projects": [
+    {
+      "slug": "mirrorlux",
+      "name": "MirrorLux: Makeup Mirror",
+      "app_id": "6797422767",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0.1",
+      "case_study": "projects/mirrorlux.md",
+      "showcase": null
+    },
+    {
+      "slug": "contractor-calculator",
+      "name": "Contractor Calculator: Jobsite",
+      "app_id": "6815061123",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "case_study": "projects/contractor-calculator.md",
+      "showcase": null
+    },
+    {
+      "slug": "foliolette",
+      "name": "Foliolette: Print to Size",
+      "app_id": "6816755162",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0",
+      "case_study": "projects/foliolette.md",
+      "showcase": "https://github.com/sepidehdalir/foliolette-showcase"
+    },
+    {
+      "slug": "tracevelle",
+      "name": "Tracevelle: Tracing Lightbox",
+      "app_id": "6816772893",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0",
+      "case_study": "projects/tracevelle.md",
+      "showcase": "https://github.com/sepidehdalir/tracevelle-showcase"
+    },
+    {
+      "slug": "pixmere",
+      "name": "Pixmere: Photo Compressor",
+      "app_id": "6816738666",
+      "catalog_available": false,
+      "status": "Review pipeline \u00b7 Waiting for Review at the last verified 2026-10-15 check; not in the US catalog check on 2026-10-16",
+      "case_study": "projects/pixmere.md",
+      "showcase": "https://github.com/sepidehdalir/filefit-showcase"
+    },
+    {
+      "slug": "scrollmere",
+      "name": "Scrollmere: Long Screenshot",
+      "app_id": "6816790939",
+      "catalog_available": false,
+      "status": "Review pipeline \u00b7 Waiting for Review at the last verified 2026-10-15 check; not in the US catalog check on 2026-10-16",
+      "case_study": "projects/scrollmere.md",
+      "showcase": "https://github.com/sepidehdalir/scrollmere-showcase"
+    },
+    {
+      "slug": "interval-plain",
+      "name": "Interval Plain: Routine Timer",
+      "app_id": "6823398938",
+      "catalog_available": false,
+      "status": "Submitted 2026-10-15 \u00b7 version 1.0 (3) Waiting for Review at the last verified submission receipt; not publicly released",
+      "case_study": "projects/interval-plain.md",
+      "showcase": "https://github.com/sepidehdalir/intervalplain-showcase"
+    },
+    {
+      "slug": "stampvale",
+      "name": "Stampvale: Photo Date Stamp",
+      "app_id": null,
+      "catalog_available": false,
+      "status": "In production \u00b7 not submitted or publicly released as of 2026-10-16",
+      "case_study": "projects/stampvale.md",
+      "showcase": "https://github.com/sepidehdalir/stampvale-showcase"
+    },
+    {
+      "slug": "her-daily-prayer-cards",
+      "name": "Her Daily Prayer Cards",
+      "app_id": "6788279130",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0",
+      "case_study": "projects/her-daily-prayer-cards.md",
+      "showcase": null
+    },
+    {
+      "slug": "culina",
+      "name": "Culina: Cooking Converter",
+      "app_id": "6815367326",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "case_study": "projects/culina.md",
+      "showcase": null
+    },
+    {
+      "slug": "lumino",
+      "name": "Lumino Daily Reflection",
+      "app_id": "6786564391",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0.3",
+      "case_study": "projects/lumino.md",
+      "showcase": null
+    },
+    {
+      "slug": "paycheck-calculator",
+      "name": "Paycheck Calculator: W-4",
+      "app_id": "6815119897",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "case_study": "projects/paycheck-calculator.md",
+      "showcase": null
+    },
+    {
+      "slug": "zakat-clear",
+      "name": "Zakat Clear: Nisab Calculator",
+      "app_id": "6814923109",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0",
+      "case_study": "projects/zakat-clear.md",
+      "showcase": null
+    },
+    {
+      "slug": "dealora",
+      "name": "Discount Calculator \u00b7 Dealora",
+      "app_id": "6815449806",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "case_study": "projects/dealora.md",
+      "showcase": null
+    },
+    {
+      "slug": "age-calculator",
+      "name": "Age Calculator: Life & Days",
+      "app_id": "6814644191",
+      "catalog_available": true,
+      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "case_study": "projects/age-calculator.md",
+      "showcase": null
+    }
+  ]
+}
