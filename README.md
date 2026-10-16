@@ -29,7 +29,7 @@ This collection brings together **15 product case studies**, including **11 apps
 | [Pixmere: Photo Compressor](projects/pixmere.md) | Prepare photos for file-size and pixel constraints. | Review pipeline |
 | [Scrollmere: Long Screenshot](projects/scrollmere.md) | Turn overlapping screenshots into one long image. | Review pipeline |
 | [Interval Plain: Routine Timer](projects/interval-plain.md) | Build a work/rest routine and follow spoken cues. | Review pipeline |
-| [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | In production |
+| [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | Waiting for Review |
 | [Her Daily Prayer Cards](projects/her-daily-prayer-cards.md) | Daily prayer cards, favorites and gentle reminders. | App Store |
 | [Culina: Cooking Converter](projects/culina.md) | Recipe conversions with ingredient context. | App Store |
 | [Lumino Daily Reflection](projects/lumino.md) | A quiet space for reflection and journaling. | App Store |
