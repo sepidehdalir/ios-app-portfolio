@@ -23,6 +23,6 @@ One complete scene, single-scene export and backup/restore are free. A one-time 
 
 The final core/local-purchase/capture suite passed32 tests. Physical-iPhone objective QA recorded and fully decoded144015 nonzero microphone frames, reopened the saved library/model, completed Speaker playback through the final gap, exported188115 WAV frames and restored a portable backup. These checks do not imply subjective listening quality or real phone-call/headphone-unplug verification. Native UI checks cover phone/tablet workflows, landscape, small screens, large text and dark appearance.
 
-The release bundle targets Universal iPhone+iPad15+ with the current SDK; an iOS15 runtime was unavailable locally. Remote product lookup is verified, while final remote Sandbox purchase verification and App Review submission remain pending. The public project contains reviewed campaigns, engineering context and support/privacy pages. Commercial source and private recordings remain private.
+The release bundle targets Universal iPhone+iPad15+ with the current SDK; an iOS15 runtime was unavailable locally. Remote product lookup is verified. Remaining genuine Sandbox purchase verification was skipped by publisher instruction, with no pass claimed. App Store Connect preparation and App Review submission remain pending. The public project contains reviewed campaigns, engineering context and support/privacy pages. Commercial source and private recordings remain private.
 
 Created by [Sepideh Javanbakht Dalir](https://www.arvinify.com). [Back to portfolio](../README.md).
