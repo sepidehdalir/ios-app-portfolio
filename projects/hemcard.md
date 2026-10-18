@@ -2,7 +2,7 @@
 
 Manual garment photo cards and matching listing text for clothing resellers. Enter values from your own tape, preview the card and share image/text files together.
 
-**Status, October18,2026:** in production. App Store identity accepted; not yet submitted or released.
+**Status, October 18, 2026:** version 1.0 (1) validated and uploaded, with app/Lifetime Pro staged for review. Genuine Sandbox purchase verification remains pending; not yet submitted or released.
 
 [Public showcase](https://github.com/sepidehdalir/hemcard) · [Product/support](https://sepidehdalir.github.io/hemcard/) · [Privacy](https://sepidehdalir.github.io/hemcard/privacy.html)
 
