@@ -35,7 +35,7 @@ This collection brings together **20 product case studies**, including **11 apps
 | [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Waiting for Review · submitted Oct18,2026 |
 | [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | App1.0(1) + Lifetime Pro · Waiting for Review |
 | [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Submitted · Waiting for Review |
-| [GapLines: Scene Rehearsal](projects/gaplines.md) | Record partner cues, leave timed reply gaps and keep the complete rehearsal scene portable. | Release QA · build1.0(2) uploaded · not submitted |
+| [GapLines: Scene Rehearsal](projects/gaplines.md) | Record partner cues, leave timed reply gaps and keep the complete rehearsal scene portable. | Release QA · build1.0(3) uploaded · not submitted |
 | [Her Daily Prayer Cards](projects/her-daily-prayer-cards.md) | Daily prayer cards, favorites and gentle reminders. | App Store |
 | [Culina: Cooking Converter](projects/culina.md) | Recipe conversions with ingredient context. | App Store |
 | [Lumino Daily Reflection](projects/lumino.md) | A quiet space for reflection and journaling. | App Store |

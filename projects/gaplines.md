@@ -1,6 +1,6 @@
 # GapLines: Scene Rehearsal
 
-**Status — October18,2026:** release QA; build1.0(2) passed Apple validation and uploaded. Not yet submitted or released.
+**Status — October18,2026:** release QA; build1.0(3) passed Apple validation and uploaded. Not yet submitted or released.
 
 [Product showcase and support](https://sepidehdalir.github.io/gaplines/) · [Public project](https://github.com/sepidehdalir/gaplines) · [Privacy](https://sepidehdalir.github.io/gaplines/privacy.html)
 
