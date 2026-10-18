@@ -30,7 +30,7 @@ This collection brings together **16 product case studies**, including **11 apps
 | [Scrollmere: Long Screenshot](projects/scrollmere.md) | Turn overlapping screenshots into one long image. | Review pipeline |
 | [Interval Plain: Routine Timer](projects/interval-plain.md) | Build a work/rest routine and follow spoken cues. | Review pipeline |
 | [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | Waiting for Review |
-| [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | Build3 uploaded · device/sandbox checks open |
+| [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | App1.0(3) + Lifetime Pro · Waiting for Review |
 | [Her Daily Prayer Cards](projects/her-daily-prayer-cards.md) | Daily prayer cards, favorites and gentle reminders. | App Store |
 | [Culina: Cooking Converter](projects/culina.md) | Recipe conversions with ingredient context. | App Store |
 | [Lumino Daily Reflection](projects/lumino.md) | A quiet space for reflection and journaling. | App Store |
