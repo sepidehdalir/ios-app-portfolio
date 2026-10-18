@@ -4,7 +4,7 @@
 
 A quiet knitting and crochet counter by **Sepideh Javanbakht Dalir**. Completed rows, the next row in your repeat, and persistent undo stay together in a focused native workspace.
 
-**Status · October 17, 2026: in production, not submitted or released.** Universal iPhone/iPad, iOS15+ deployment. Simulator reliability, local StoreKit and accessibility checks have passed. Physical-device and genuine remote sandbox transaction checks remain open. Commercial source is backed up privately.
+**Status · October 18, 2026: version 1.0(2) and Lifetime Pro submitted; both Waiting for Review.** Not approved or released. Universal iPhone/iPad, iOS15+ deployment. Simulator reliability, local StoreKit and accessibility checks passed, along with physical iPhone core, catalog and workflow checks. Remaining genuine remote StoreKit verification was skipped by publisher instruction, not marked passed. Commercial source and dated evidence are backed up privately; V1 is frozen except Apple remediation.
 
 <img src="https://raw.githubusercontent.com/sepidehdalir/rowmoss/main/docs/assets/iphone-campaign.png" width="1100" alt="Rowmoss iPhone campaign: count, repeat, saved position, project library and patterns">
 <img src="https://raw.githubusercontent.com/sepidehdalir/rowmoss/main/docs/assets/ipad-campaign.png" width="1100" alt="Dedicated Rowmoss iPad campaign with the project basket and repeat workspace">
