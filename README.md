@@ -2,7 +2,7 @@
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
-This collection brings together **19 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
+This collection brings together **20 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
 
 [Website](https://www.arvinify.com) · [GitHub](https://github.com/sepidehdalir) · [Email](mailto:hello@arvinify.com)
 
@@ -14,6 +14,7 @@ This collection brings together **19 product case studies**, including **11 apps
 | **Tracevelle** | Image preparation, calibration and a locked tracing workspace | [Case study](projects/tracevelle.md) · [Showcase](https://github.com/sepidehdalir/tracevelle-showcase) |
 | **Scrollmere** | Screenshot overlap, manual correction and long-image/PDF exports | [Case study](projects/scrollmere.md) · [Showcase](https://github.com/sepidehdalir/scrollmere-showcase) |
 | **Interval Plain** | Continuous-clock timing, spoken cues and interruption recovery | [Case study](projects/interval-plain.md) · [Showcase](https://github.com/sepidehdalir/intervalplain-showcase) |
+| **GapLines** | Recorded partner cues, timed reply gaps and portable scene recovery | [Case study](projects/gaplines.md) · [Showcase](https://github.com/sepidehdalir/gaplines) |
 | **Stampvale** | Photo metadata interpretation and separate-copy date/caption exports | [Case study](projects/stampvale.md) · [Showcase](https://github.com/sepidehdalir/stampvale-showcase) |
 
 <img src="https://raw.githubusercontent.com/sepidehdalir/foliolette-showcase/main/assets/01-Hero.png" alt="Foliolette print-to-size marketing artwork" width="260">
@@ -34,6 +35,7 @@ This collection brings together **19 product case studies**, including **11 apps
 | [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Waiting for Review · submitted Oct18,2026 |
 | [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | App1.0(1) + Lifetime Pro · Waiting for Review |
 | [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Submitted · Waiting for Review |
+| [GapLines: Scene Rehearsal](projects/gaplines.md) | Record partner cues, leave timed reply gaps and keep the complete rehearsal scene portable. | Release QA · build1.0(2) uploaded · not submitted |
 | [Her Daily Prayer Cards](projects/her-daily-prayer-cards.md) | Daily prayer cards, favorites and gentle reminders. | App Store |
 | [Culina: Cooking Converter](projects/culina.md) | Recipe conversions with ingredient context. | App Store |
 | [Lumino Daily Reflection](projects/lumino.md) | A quiet space for reflection and journaling. | App Store |
@@ -63,3 +65,5 @@ This is a curated public portfolio. Commercial production repositories are priva
 - [Backend project](https://github.com/sepidehdalir/Backend_project_friends)
 
 Product descriptions reflect verified source documentation and public listings. No revenue, growth, ranking or unverified test result is claimed. Last portfolio review: October 16, 2026.
+
+GapLines case study and reviewed iPhone/iPad campaigns added October18,2026. Its production status is dated independently of the October16 public-catalog audit.
