@@ -2,7 +2,7 @@
 
 Manual garment photo cards and matching listing text for clothing resellers. Enter values from your own tape, preview the card and share image/text files together.
 
-**Status, October 18, 2026:** version 1.0 (1) validated and uploaded, with app/Lifetime Pro staged for review. Genuine Sandbox purchase verification remains pending; not yet submitted or released.
+**Status, October 18, 2026:** version **1.0 (1)** and **Lifetime Pro** submitted together at **11:40 AM PDT**; both **Waiting for Review**. V1 is frozen. Apple approval and release are pending.
 
 [Public showcase](https://github.com/sepidehdalir/hemcard) · [Product/support](https://sepidehdalir.github.io/hemcard/) · [Privacy](https://sepidehdalir.github.io/hemcard/privacy.html)
 
@@ -10,7 +10,7 @@ Manual garment photo cards and matching listing text for clothing resellers. Ent
 
 Free basic top cards and single export. Optional one-time Pro adds batch export, saved seller presentation layouts and extended garment templates. No automatic measurement, AI, fit guarantee or marketplace publication.
 
-Native Swift/SwiftUI, UIKit/CoreGraphics, ImageIO, PHPicker, StoreKit2, schema-versioned atomic local persistence and exact integer measurement storage. Universal iOS/iPadOS15+ deployment; a purposeful iPad editor/preview workspace and accessibility-size fallback. Product testing and Apple release steps are tracked separately in the showcase; no revenue or unverified shipping claim.
+Native Swift/SwiftUI, UIKit/CoreGraphics, ImageIO, PHPicker, StoreKit2, schema-versioned atomic local persistence and exact integer measurement storage. Universal iOS/iPadOS15+ deployment; a purposeful iPad editor/preview workspace and accessibility-size fallback. Product testing and Apple release steps are tracked separately in the showcase. Remaining genuine Sandbox tests were skipped by explicit publisher instruction, not passed; prior failures are retained. No revenue or unverified shipping claim.
 
 Commercial source remains private under the publisher's source policy. Original generated garment imagery, illustrative manually entered sample values and authentic app UI are used in the marketing.
 

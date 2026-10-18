@@ -33,7 +33,7 @@ This collection brings together **19 product case studies**, including **11 apps
 | [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | App1.0(3) + Lifetime Pro · Waiting for Review |
 | [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Waiting for Review · submitted Oct18,2026 |
 | [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | App1.0(1) + Lifetime Pro · Waiting for Review |
-| [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Validated/uploaded · not submitted |
+| [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Submitted · Waiting for Review |
 | [Her Daily Prayer Cards](projects/her-daily-prayer-cards.md) | Daily prayer cards, favorites and gentle reminders. | App Store |
 | [Culina: Cooking Converter](projects/culina.md) | Recipe conversions with ingredient context. | App Store |
 | [Lumino Daily Reflection](projects/lumino.md) | A quiet space for reflection and journaling. | App Store |
