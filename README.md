@@ -23,7 +23,7 @@ This collection brings together **23 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
-| [Tileleaf: Poster Printing](projects/tileleaf.md) | Physically sized poster tiles, measured scale guidance and stable replacement-sheet projects. | In production · signed package prepared; measured print and genuine Sandbox results pending |
+| [Tileleaf: Poster Printing](projects/tileleaf.md) | Physically sized poster tiles, measured scale guidance and stable replacement-sheet projects. | Waiting for Review · 1.0 (1) and Lifetime Pro submitted October19,2026 |
 | [Foldwisp: Booklet Printing](projects/foldwisp.md) | Arrange PDFs into folded booklet sheets, preview reading order and calibrate manual duplex. | Submitted October 19 · app + Lifetime Pro Waiting for Review |
 | [Phrasevale: Audio Shadowing](projects/phrasevale.md) | Select phrases from owned audio, leave speaking pauses and compare paired responses by ear. | App rejected under 4.3(a), Oct19 · clarification response sent · Pro Ready for Review |
 | [MirrorLux: Makeup Mirror](projects/mirrorlux.md) | A pocket mirror for everyday touch-ups. | App Store |
