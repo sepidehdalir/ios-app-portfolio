@@ -19,7 +19,7 @@ Built by Sepideh Javanbakht Dalir. Select a phrase from audio you own, listen at
 
 ## Evidence and remaining gates
 
-Twenty-one local core/StoreKit checks passed on iOS17. A live response recording/decoded-file/playback test passed on the current iOS26.5 simulator; an earlier iOS17 HAL input failure is preserved. Native capture flows passed on current phone/tablet simulators. Maximum-Dynamic-Type dark portrait/landscape layouts were corrected and visually checked on compact phone/iPad.
+Twenty-one local core/StoreKit checks passed on iOS17. After the serial audio-worker refactor, actual response recording/decoded-file/playback tests passed on both iOS17.0 and iOS26.5 simulators; the initial iOS17 HAL input failure is preserved in the engineering history. Native capture flows passed on current phone/tablet simulators. Maximum-Dynamic-Type dark portrait/landscape layouts were corrected and visually checked on compact phone/iPad.
 
 An unsigned Universal iOS15 Release archive compiled with Xcode26.5; no iOS15 runtime was installed. Physical microphone/headphone/interruption verification, genuine Sandbox, explicit signing, archive validation, upload and App Review remain open. TestFlight is skipped by publisher instruction. No App Store availability or learning outcome is claimed.
 
