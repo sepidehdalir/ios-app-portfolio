@@ -1,6 +1,6 @@
 # Phrasevale: Audio Shadowing
 
-**Development — not submitted or released. Consumer brand provisional pending App Store Connect reservation.**
+**Development — build 1.0 (1) uploaded; not submitted for App Review or released.**
 
 Built by Sepideh Javanbakht Dalir. Select a phrase from audio you own, listen at your pace, leave a speaking gap, record a response and compare by ear. This source-region/paired-response workflow is distinct from authoring recorded dialogue sequences.
 
@@ -21,7 +21,9 @@ Built by Sepideh Javanbakht Dalir. Select a phrase from audio you own, listen at
 
 Twenty-one local core/StoreKit checks passed on iOS17. After the serial audio-worker refactor, actual response recording/decoded-file/playback tests passed on both iOS17.0 and iOS26.5 simulators; the initial iOS17 HAL input failure is preserved in the engineering history. Native capture flows passed on current phone/tablet simulators. Maximum-Dynamic-Type dark portrait/landscape layouts were corrected and visually checked on compact phone/iPad.
 
-An unsigned Universal iOS15 Release archive compiled with Xcode26.5; no iOS15 runtime was installed. Physical microphone/headphone/interruption verification, genuine Sandbox, explicit signing, archive validation, upload and App Review remain open. TestFlight is skipped by publisher instruction. No App Store availability or learning outcome is claimed.
+Three tests passed on a physical iPhone17ProMax/iOS26.1: actual built-in microphone capture/decoded nonzero samples/completed speaker playback, playback-to-pause timing, and UI record/save/relaunch/background cancellation. Subjective listening, headphone disconnect and real incoming-call interruption remain separate checks.
+
+A signed Universal iOS15 Release archive compiled with Xcode26.5 and passed Apple’s native App Store validation; no iOS15 runtime was installed. Explicit development and App Store distribution profiles match the bundle. Version 1.0 (1) completed native upload for App Store Connect app 6824353458. Genuine Sandbox and App Review remain open. TestFlight is skipped by publisher instruction. No App Store availability or learning outcome is claimed.
 
 The ten marketing frames use actual native UI and original-text demo audio rendered locally. No private speaker recordings or commercial source are published.
 
