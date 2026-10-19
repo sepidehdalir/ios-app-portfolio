@@ -2,7 +2,7 @@
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
-This collection brings together **20 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
+This collection brings together **21 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
 
 [Website](https://www.arvinify.com) · [GitHub](https://github.com/sepidehdalir) · [Email](mailto:hello@arvinify.com)
 
@@ -23,6 +23,7 @@ This collection brings together **20 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
+| [Phrasevale: Audio Shadowing](projects/phrasevale.md) | Select phrases from owned audio, leave speaking pauses and compare paired responses by ear. | Development · not submitted or released |
 | [MirrorLux: Makeup Mirror](projects/mirrorlux.md) | A pocket mirror for everyday touch-ups. | App Store |
 | [Contractor Calculator: Jobsite](projects/contractor-calculator.md) | Material estimates with the math explained. | App Store |
 | [Foliolette: Print to Size](projects/foliolette.md) | The photo sizes you choose, on one printable sheet. | App Store |
