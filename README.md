@@ -2,7 +2,7 @@
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
-This collection brings together **21 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
+This collection brings together **22 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
 
 [Website](https://www.arvinify.com) · [GitHub](https://github.com/sepidehdalir) · [Email](mailto:hello@arvinify.com)
 
@@ -23,6 +23,7 @@ This collection brings together **21 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
+| [Foldwisp: Booklet Printing](projects/foldwisp.md) | Arrange PDFs into folded booklet sheets, preview reading order and calibrate manual duplex. | In production · native archive validation passed; production QA gates remain |
 | [Phrasevale: Audio Shadowing](projects/phrasevale.md) | Select phrases from owned audio, leave speaking pauses and compare paired responses by ear. | Waiting for Review · app 1.0 (1) and Lifetime Pro submitted |
 | [MirrorLux: Makeup Mirror](projects/mirrorlux.md) | A pocket mirror for everyday touch-ups. | App Store |
 | [Contractor Calculator: Jobsite](projects/contractor-calculator.md) | Material estimates with the math explained. | App Store |
@@ -68,3 +69,5 @@ This is a curated public portfolio. Commercial production repositories are priva
 Product descriptions reflect verified source documentation and public listings. No revenue, growth, ranking or unverified test result is claimed. Last portfolio review: October 16, 2026.
 
 GapLines case study and reviewed iPhone/iPad campaigns added October18,2026. Its production status is dated independently of the October16 public-catalog audit.
+
+Foldwisp case study and dedicated iPhone/iPad campaigns added October 19, 2026. Its in-production status is separate from the October 16 public-catalog audit.
