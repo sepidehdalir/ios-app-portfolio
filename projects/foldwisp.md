@@ -4,7 +4,7 @@
 
 Foldwisp arranges supported PDFs onto A4 or US Letter sheets for a nested, folded booklet. It combines a sheet-pair preview, intended reading-order preview and a physical manual-duplex calibration workflow, so users can test their printer's reload direction before printing the full stack.
 
-**Status — October 19, 2026:** in production, uploaded to App Store Connect with no errors after final native validation; not submitted or released. Build1 completed processing and is saved on version1.0; Lifetime Pro is staged in an unsubmitted review draft. Physical UI workflow and live Apple price loading have passed. Physical VoiceOver verification, physical folded-output proof, genuine Sandbox purchase verification and the app-specific privacy certification remain open gates. TestFlight is intentionally skipped by publisher instruction.
+**Status — October 19, 2026:** in production, uploaded to App Store Connect with no errors after final native validation; not submitted or released. Build1 completed processing and is saved on version1.0; Lifetime Pro is staged in an unsubmitted review draft. Physical UI workflow and live Apple price loading have passed. Physical VoiceOver verification, physical folded-output proof and the app-specific privacy certification remain open gates. Genuine Sandbox testing is skipped by the publisher’s October 19 instruction; transactions and restore remain unverified. TestFlight is intentionally skipped by publisher instruction.
 
 [Public product showcase](https://github.com/sepidehdalir/foldwisp-showcase) · [Support](https://sepidehdalir.github.io/foldwisp-showcase/)
 

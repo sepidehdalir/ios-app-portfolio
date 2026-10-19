@@ -142,7 +142,7 @@
       "name": "Foldwisp: Booklet Printing",
       "app_id": "6824577159",
       "catalog_available": false,
-      "status": "In production \u00b7 native validation/upload succeeded October 19, 2026; physical core 19 and UI/live-price checks passed; VoiceOver/print/Sandbox/privacy gates remain; not submitted",
+      "status": "In production \u00b7 native validation/upload succeeded October 19, 2026; physical core 19 and UI/live-price checks passed; Sandbox testing skipped by publisher; VoiceOver/print/privacy gates remain; not submitted",
       "case_study": "projects/foldwisp.md",
       "showcase": "https://github.com/sepidehdalir/foldwisp-showcase"
     }
