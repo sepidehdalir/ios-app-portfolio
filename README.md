@@ -23,7 +23,7 @@ This collection brings together **21 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
-| [Phrasevale: Audio Shadowing](projects/phrasevale.md) | Select phrases from owned audio, leave speaking pauses and compare paired responses by ear. | Build 1.0 (1) uploaded · not submitted for App Review |
+| [Phrasevale: Audio Shadowing](projects/phrasevale.md) | Select phrases from owned audio, leave speaking pauses and compare paired responses by ear. | Waiting for Review · app 1.0 (1) and Lifetime Pro submitted |
 | [MirrorLux: Makeup Mirror](projects/mirrorlux.md) | A pocket mirror for everyday touch-ups. | App Store |
 | [Contractor Calculator: Jobsite](projects/contractor-calculator.md) | Material estimates with the math explained. | App Store |
 | [Foliolette: Print to Size](projects/foliolette.md) | The photo sizes you choose, on one printable sheet. | App Store |
