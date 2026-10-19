@@ -1,6 +1,6 @@
 # Phrasevale: Audio Shadowing
 
-**Waiting for Review — app 1.0 (1) and Lifetime Pro submitted October18,2026. Not approved or released.**
+**App 1.0 (1) rejected under Guideline4.3(a), October19,2026. Clarification response sent; Lifetime Pro Ready for Review. Not approved or released.**
 
 Built by Sepideh Javanbakht Dalir. Select a phrase from audio you own, listen at your pace, leave a speaking gap, record a response and compare by ear. This source-region/paired-response workflow is distinct from authoring recorded dialogue sequences.
 
@@ -23,7 +23,7 @@ Twenty-one local core/StoreKit checks passed on iOS17. After the serial audio-wo
 
 Three tests passed on a physical iPhone17ProMax/iOS26.1: actual built-in microphone capture/decoded nonzero samples/completed speaker playback, playback-to-pause timing, and UI record/save/relaunch/background cancellation. The publisher confirmed clear speaker/headphone playback and that disconnect stops playback. Actual incoming-call interruption and spoken VoiceOver focus checks are deferred/non-blocking.
 
-A signed Universal iOS15 Release archive compiled with Xcode26.5 and passed Apple’s native App Store validation; no iOS15 runtime was installed. Explicit development and App Store distribution profiles match the bundle. Version 1.0 (1) completed native upload for App Store Connect app 6824353458. Apple accepted app1.0(1)and LifetimePro on October18,2026 at11:28PM America/Vancouver; both are Waiting for Review, submission f9bc4456-6159-44f2-94ca-b62a9f73e92d. The owner-approved Data Not Collected declaration and final public privacy policy are published. The real Apple catalog/paywall loaded; an account-permission error prevented a verified Sandbox purchase, and the publisher explicitly skipped the remaining purchase/restore/relaunch checks. No genuine Sandbox purchase pass is claimed. TestFlight is skipped by publisher instruction. No App Store availability or learning outcome is claimed.
+A signed Universal iOS15 Release archive compiled with Xcode26.5 and passed Apple’s native App Store validation; no iOS15 runtime was installed. Explicit development and App Store distribution profiles match the bundle. Version 1.0 (1) completed native upload for App Store Connect app 6824353458. Apple accepted app1.0(1)and LifetimePro on October18,2026 at11:28PM America/Vancouver; submission f9bc4456-6159-44f2-94ca-b62a9f73e92d. On October19, Apple rejected app1.0(1) under Guideline4.3(a); Lifetime Pro is Ready for Review. An app-specific clarification with a reproducible demo workflow was sent and verified at4:20PM America/Vancouver. The comparison app or concrete defect has not been identified; no corrected build or resubmission is claimed. The owner-approved Data Not Collected declaration and final public privacy policy are published. The real Apple catalog/paywall loaded; an account-permission error prevented a verified Sandbox purchase, and the publisher explicitly skipped the remaining purchase/restore/relaunch checks. No genuine Sandbox purchase pass is claimed. TestFlight is skipped by publisher instruction. No App Store availability or learning outcome is claimed.
 
 The ten marketing frames use actual native UI and original-text demo audio rendered locally. No private speaker recordings or commercial source are published.
 
