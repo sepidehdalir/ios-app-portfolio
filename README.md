@@ -23,7 +23,7 @@ This collection brings together **22 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
-| [Foldwisp: Booklet Printing](projects/foldwisp.md) | Arrange PDFs into folded booklet sheets, preview reading order and calibrate manual duplex. | In production · validated and uploaded; remaining production QA gates open |
+| [Foldwisp: Booklet Printing](projects/foldwisp.md) | Arrange PDFs into folded booklet sheets, preview reading order and calibrate manual duplex. | Submitted October 19 · app + Lifetime Pro Waiting for Review |
 | [Phrasevale: Audio Shadowing](projects/phrasevale.md) | Select phrases from owned audio, leave speaking pauses and compare paired responses by ear. | Waiting for Review · app 1.0 (1) and Lifetime Pro submitted |
 | [MirrorLux: Makeup Mirror](projects/mirrorlux.md) | A pocket mirror for everyday touch-ups. | App Store |
 | [Contractor Calculator: Jobsite](projects/contractor-calculator.md) | Material estimates with the math explained. | App Store |

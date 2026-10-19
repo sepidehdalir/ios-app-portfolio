@@ -4,7 +4,7 @@
 
 Foldwisp arranges supported PDFs onto A4 or US Letter sheets for a nested, folded booklet. It combines a sheet-pair preview, intended reading-order preview and a physical manual-duplex calibration workflow, so users can test their printer's reload direction before printing the full stack.
 
-**Status — October 19, 2026:** in production, uploaded to App Store Connect with no errors after final native validation; not submitted or released. Build1 completed processing and is saved on version1.0; Lifetime Pro is staged in an unsubmitted review draft. Physical UI workflow and live Apple price loading have passed. The requested physical VoiceOver sample/preview/export/Pro/Settings flow passed by explicit publisher report. Physical folded-output proof and the app-specific privacy certification remain open gates. Genuine Sandbox testing is skipped by the publisher’s October 19 instruction; transactions and restore remain unverified. TestFlight is intentionally skipped by publisher instruction.
+**Status — October 19, 2026:** version 1.0 (build 1) and Lifetime Pro were submitted together at 1:48 PM PDT. Both are **Waiting for Review**; no App Store approval or release is claimed. Shipping V1 is frozen. Physical core/UI checks and the requested owner-reported VoiceOver flow passed. TestFlight, genuine Sandbox testing and physical folded print proof are skipped by publisher instruction; unperformed transactions/restore and printer output remain unverified. The approved Data Not Collected declaration is published in App Store Connect, and the [privacy policy](https://sepidehdalir.github.io/foldwisp-showcase/privacy.html) is live.
 
 [Public product showcase](https://github.com/sepidehdalir/foldwisp-showcase) · [Support](https://sepidehdalir.github.io/foldwisp-showcase/)
 
@@ -26,6 +26,6 @@ Independent imposition/output checks, persistence/cancellation regressions, loca
 
 The app has no account, analytics SDK, external AI or developer-operated document upload. Explicit user-selected Files providers, share destinations and printers retain their own behavior. Commercial source and private verification records remain in an independent private repository. The public showcase contains original product visuals and technical summaries.
 
-**App Store record:** 6824577159 · **Version:** 1.0 (1), in production.
+**App Store record:** 6824577159 · **Version:** 1.0 (1), Waiting for Review.
 
 Built by [Sepideh Javanbakht Dalir](https://www.arvinify.com) · [hello@arvinify.com](mailto:hello@arvinify.com)
