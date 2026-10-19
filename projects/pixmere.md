@@ -14,8 +14,6 @@ Image encoding; bounded export work; output verification; preserving a clear rel
 
 ## Release status
 
-Review pipeline · Waiting for Review at the last verified 2026-10-15 check; not in the US catalog check on 2026-10-16.
-
-Status snapshot: October 16, 2026. Catalog availability and a review submission are different milestones.
+**October 19, 2026:** app Rejected under Guideline 4.3(a); Lifetime Pro Ready for Review. Apple confirmed receipt of the App Review Board appeal. Decision pending; no new binary resubmission, approval or release claimed.
 
 [← All iOS projects](../README.md)

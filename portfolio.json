@@ -43,27 +43,30 @@
       "name": "Pixmere: Photo Compressor",
       "app_id": "6816738666",
       "catalog_available": false,
-      "status": "Review pipeline \u00b7 Waiting for Review at the last verified 2026-10-15 check; not in the US catalog check on 2026-10-16",
+      "status": "Rejected4.3(a); App Review Board appeal received2026-10-19; decision pending; not released",
       "case_study": "projects/pixmere.md",
-      "showcase": "https://github.com/sepidehdalir/filefit-showcase"
+      "showcase": "https://github.com/sepidehdalir/filefit-showcase",
+      "review_status_updated_at": "2026-10-19"
     },
     {
       "slug": "scrollmere",
       "name": "Scrollmere: Long Screenshot",
       "app_id": "6816790939",
       "catalog_available": false,
-      "status": "Review pipeline \u00b7 Waiting for Review at the last verified 2026-10-15 check; not in the US catalog check on 2026-10-16",
+      "status": "Rejected4.3(a); App Review Board appeal received2026-10-19; decision pending; not released",
       "case_study": "projects/scrollmere.md",
-      "showcase": "https://github.com/sepidehdalir/scrollmere-showcase"
+      "showcase": "https://github.com/sepidehdalir/scrollmere-showcase",
+      "review_status_updated_at": "2026-10-19"
     },
     {
       "slug": "interval-plain",
       "name": "Interval Plain: Routine Timer",
       "app_id": "6823398938",
       "catalog_available": false,
-      "status": "Submitted 2026-10-15 \u00b7 version 1.0 (3) Waiting for Review at the last verified submission receipt; not publicly released",
+      "status": "Rejected4.3(a); App Review Board appeal received2026-10-19; decision pending; not released",
       "case_study": "projects/interval-plain.md",
-      "showcase": "https://github.com/sepidehdalir/intervalplain-showcase"
+      "showcase": "https://github.com/sepidehdalir/intervalplain-showcase",
+      "review_status_updated_at": "2026-10-19"
     },
     {
       "slug": "stampvale",

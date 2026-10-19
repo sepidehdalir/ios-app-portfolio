@@ -14,8 +14,6 @@ Continuous-clock timing; missed-stage detection; local speech; atomic persistenc
 
 ## Release status
 
-Submitted 2026-10-15 · version 1.0 (3) Waiting for Review at the last verified submission receipt; not publicly released.
-
-Status snapshot: October 16, 2026. Catalog availability and a review submission are different milestones.
+**October 19, 2026:** app Rejected under Guideline 4.3(a); Lifetime Pro Ready for Review. Apple confirmed receipt of the App Review Board appeal. Decision pending; no new binary resubmission, approval or release claimed.
 
 [← All iOS projects](../README.md)

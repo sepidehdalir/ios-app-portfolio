@@ -30,15 +30,15 @@ This collection brings together **23 product case studies**, including **11 apps
 | [Contractor Calculator: Jobsite](projects/contractor-calculator.md) | Material estimates with the math explained. | App Store |
 | [Foliolette: Print to Size](projects/foliolette.md) | The photo sizes you choose, on one printable sheet. | App Store |
 | [Tracevelle: Tracing Lightbox](projects/tracevelle.md) | Prepare a pattern, then keep it still while tracing. | App Store |
-| [Pixmere: Photo Compressor](projects/pixmere.md) | Prepare photos for file-size and pixel constraints. | Review pipeline |
-| [Scrollmere: Long Screenshot](projects/scrollmere.md) | Turn overlapping screenshots into one long image. | Review pipeline |
-| [Interval Plain: Routine Timer](projects/interval-plain.md) | Build a work/rest routine and follow spoken cues. | Review pipeline |
+| [Pixmere: Photo Compressor](projects/pixmere.md) | Prepare photos for file-size and pixel constraints. | Rejected 4.3(a) · Board appeal received October 19; decision pending |
+| [Scrollmere: Long Screenshot](projects/scrollmere.md) | Turn overlapping screenshots into one long image. | Rejected 4.3(a) · Board appeal received October 19; decision pending |
+| [Interval Plain: Routine Timer](projects/interval-plain.md) | Build a work/rest routine and follow spoken cues. | Rejected 4.3(a) · Board appeal received October 19; decision pending |
 | [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | Waiting for Review |
 | [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | App1.0(3) + Lifetime Pro · Waiting for Review |
 | [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Waiting for Review · submitted Oct18,2026 |
 | [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | App1.0(1) + Lifetime Pro · Waiting for Review |
 | [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Submitted · Waiting for Review |
-| [GapLines: Scene Rehearsal](projects/gaplines.md) | Record partner cues, leave timed reply gaps and keep the complete rehearsal scene portable. | App 1.0 (3) Rejected 4.3(a) · clarification sent October 19; IAP Ready for Review |
+| [GapLines: Scene Rehearsal](projects/gaplines.md) | Record partner cues, leave timed reply gaps and keep the complete rehearsal scene portable. | Rejected 4.3(a) · Board appeal received October 19; decision pending |
 | [Her Daily Prayer Cards](projects/her-daily-prayer-cards.md) | Daily prayer cards, favorites and gentle reminders. | App Store |
 | [Culina: Cooking Converter](projects/culina.md) | Recipe conversions with ingredient context. | App Store |
 | [Lumino Daily Reflection](projects/lumino.md) | A quiet space for reflection and journaling. | App Store |
