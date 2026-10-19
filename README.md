@@ -31,7 +31,7 @@ This collection brings together **20 product case studies**, including **11 apps
 | [Scrollmere: Long Screenshot](projects/scrollmere.md) | Turn overlapping screenshots into one long image. | Review pipeline |
 | [Interval Plain: Routine Timer](projects/interval-plain.md) | Build a work/rest routine and follow spoken cues. | Review pipeline |
 | [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | Waiting for Review |
-| [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | App 1.0 (3) + Lifetime Pro · Waiting for Review |
+| [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | App1.0(3) + Lifetime Pro · Waiting for Review |
 | [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Waiting for Review · submitted Oct18,2026 |
 | [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | App1.0(1) + Lifetime Pro · Waiting for Review |
 | [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Submitted · Waiting for Review |
