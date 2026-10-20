@@ -18,7 +18,7 @@ Dated local evidence covers deterministic date/rendering/source-retention tests,
 
 ## Release status
 
-**Waiting for Review** — app version 1.0 (1) and Lifetime Pro were submitted together on October 16, 2026 at 12:18 PDT. Both statuses were verified in App Store Connect. TestFlight was skipped by publisher instruction. The app is not publicly released; manual release is selected.
+**Current status — October 19, 2026: Stampvale app version is Rejected.** App Store Connect’s Apps list and the exact submission notification were checked. Exact review feedback is being assessed; no corrective resubmission, approval or release is claimed. Previous production checks remain dated evidence; app-specific skipped checks remain skipped.
 
 Status snapshot: October 16, 2026. Catalog availability and a review submission are different milestones. No demand, ranking or revenue claim.
 

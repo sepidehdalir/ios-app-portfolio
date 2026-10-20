@@ -15,7 +15,7 @@ This collection brings together **23 product case studies**, including **11 apps
 | **Scrollmere** | Screenshot overlap, manual correction and long-image/PDF exports | [Case study](projects/scrollmere.md) · [Showcase](https://github.com/sepidehdalir/scrollmere-showcase) |
 | **Interval Plain** | Continuous-clock timing, spoken cues and interruption recovery | [Case study](projects/interval-plain.md) · [Showcase](https://github.com/sepidehdalir/intervalplain-showcase) |
 | **GapLines** | Recorded partner cues, timed reply gaps and portable scene recovery | [Case study](projects/gaplines.md) · [Showcase](https://github.com/sepidehdalir/gaplines) |
-| **Stampvale** | Photo metadata interpretation and separate-copy date/caption exports | [Case study](projects/stampvale.md) · [Showcase](https://github.com/sepidehdalir/stampvale-showcase) |
+| **Stampvale** | Photo metadata interpretation and separate-copy date/caption exports | Rejected · verified October19,2026; App Review recovery in progress |
 
 <img src="https://raw.githubusercontent.com/sepidehdalir/foliolette-showcase/main/assets/01-Hero.png" alt="Foliolette print-to-size marketing artwork" width="260">
 
@@ -33,11 +33,11 @@ This collection brings together **23 product case studies**, including **11 apps
 | [Pixmere: Photo Compressor](projects/pixmere.md) | Prepare photos for file-size and pixel constraints. | Rejected 4.3(a) · Board appeal received October 19; decision pending |
 | [Scrollmere: Long Screenshot](projects/scrollmere.md) | Turn overlapping screenshots into one long image. | Rejected 4.3(a) · Board appeal received October 19; decision pending |
 | [Interval Plain: Routine Timer](projects/interval-plain.md) | Build a work/rest routine and follow spoken cues. | Rejected 4.3(a) · Board appeal received October 19; decision pending |
-| [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | Waiting for Review |
-| [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | App1.0(3) + Lifetime Pro · Waiting for Review |
-| [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Waiting for Review · submitted Oct18,2026 |
-| [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | App1.0(1) + Lifetime Pro · Waiting for Review |
-| [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Submitted · Waiting for Review |
+| [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | Rejected · verified October19,2026; App Review recovery in progress |
+| [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | Rejected · verified October19,2026; App Review recovery in progress |
+| [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Rejected · verified October19,2026; App Review recovery in progress |
+| [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | Rejected · verified October19,2026; App Review recovery in progress |
+| [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Rejected · verified October19,2026; App Review recovery in progress |
 | [GapLines: Scene Rehearsal](projects/gaplines.md) | Record partner cues, leave timed reply gaps and keep the complete rehearsal scene portable. | Rejected 4.3(a) · Board appeal received October 19; decision pending |
 | [Her Daily Prayer Cards](projects/her-daily-prayer-cards.md) | Daily prayer cards, favorites and gentle reminders. | App Store |
 | [Culina: Cooking Converter](projects/culina.md) | Recipe conversions with ingredient context. | App Store |

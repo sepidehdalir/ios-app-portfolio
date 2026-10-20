@@ -2,7 +2,7 @@
 
 Manual garment photo cards and matching listing text for clothing resellers. Enter values from your own tape, preview the card and share image/text files together.
 
-**Status, October 18, 2026:** version **1.0 (1)** and **Lifetime Pro** submitted together at **11:40 AM PDT**; both **Waiting for Review**. V1 is frozen. Apple approval and release are pending.
+**Current status — October 19, 2026: Hemcard app version is Rejected.** App Store Connect’s Apps list and the exact submission notification were checked. Exact review feedback is being assessed; no corrective resubmission, approval or release is claimed. Previous production checks remain dated evidence; app-specific skipped checks remain skipped.
 
 [Public showcase](https://github.com/sepidehdalir/hemcard) · [Product/support](https://sepidehdalir.github.io/hemcard/) · [Privacy](https://sepidehdalir.github.io/hemcard/privacy.html)
 
