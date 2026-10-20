@@ -14,6 +14,6 @@ October19 build4 QA: 25 core tests plus native model/local StoreKit checks, iPho
 
 ## Release status
 
-**October19,2026:** version1.0(4) archive/export, strict distribution inspection, Apple validation and upload succeeded. Apple processing and actual new submission remain pending. Prior build3 is Rejected4.3(a), with its first Board appeal pending. No approval or public release claimed. TestFlight skipped by publisher instruction.
+**October19,2026 at17:54PDT:** version1.0(4) and Lifetime Pro resubmitted together; both **Waiting for Review**. Archive/export, strict distribution inspection, Apple validation/upload/processing and saved new-build association passed. Twelve revised screenshots and a concrete planner reviewer path are included. Manual release enabled. Prior build3’s4.3(a) rejection and first Board appeal are historical; no duplicate appeal filed. No approval or public release claimed. TestFlight skipped by publisher instruction.
 
 [← All iOS projects](../README.md)
