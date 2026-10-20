@@ -2,7 +2,7 @@
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
-This collection brings together **24 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
+This collection brings together **25 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
 
 [Website](https://www.arvinify.com) · [GitHub](https://github.com/sepidehdalir) · [Email](mailto:hello@arvinify.com)
 
@@ -23,6 +23,7 @@ This collection brings together **24 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
+| [Pairstride: Compare Videos](projects/pairstride.md) | Manual event alignment, linked two-video comparison and checked labeled movies. | Waiting for Review ·1.0(1) and Lifetime Pro submitted October20,2026 at00:36PDT |
 | [Dateborne: Photo Date Editor](projects/dateborne.md) | Explicit photo dates/UTC offsets, separate JPEG/HEIC copies and saved-copy metadata checks. | Waiting for Review · 1.0 (1) and Lifetime Pro submitted October19,2026 at20:55PDT |
 | [Tileleaf: Poster Printing](projects/tileleaf.md) | Physically sized poster tiles, measured scale guidance and stable replacement-sheet projects. | Waiting for Review · 1.0 (1) and Lifetime Pro submitted October19,2026 |
 | [Foldwisp: Booklet Printing](projects/foldwisp.md) | Arrange PDFs into folded booklet sheets, preview reading order and calibrate manual duplex. | Submitted October 19 · app + Lifetime Pro Waiting for Review |
