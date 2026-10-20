@@ -2,7 +2,7 @@
 
 One moment. Two points of view. Pairstride aligns two short local SDR videos at a manually marked event, then plays, scrubs and exports their common overlap on one timeline.
 
-**Submitted October 20, 2026 at 00:36 PDT: Pairstride 1.0 (1) and Lifetime Pro are Waiting for Review.** Submission ID `362f8ccc-8ced-48cf-90e4-a1758f8a1826`. Local/native and owner-reported physical/Sandbox QA, signed archive, Apple validation/upload, processed build, published privacy and premium iPhone/iPad campaign completed. V1 is frozen. Not released. TestFlight skipped at the publisher's instruction.
+**Current status — October 20, 2026:** App 1.0 (1) rejected on October 20, 2026. Detailed Apple feedback and current IAP status await verification. Recovery in progress; no new binary resubmission, approval or release. Earlier submission and QA milestones are historical; no new recovery-test pass is claimed.
 
 [Product and support](https://sepidehdalir.github.io/pairstride/) · [Public showcase](https://github.com/sepidehdalir/pairstride) · [Privacy policy](https://sepidehdalir.github.io/pairstride/privacy.html)
 

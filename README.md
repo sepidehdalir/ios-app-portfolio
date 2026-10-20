@@ -23,24 +23,24 @@ This collection brings together **25 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
-| [Pairstride: Compare Videos](projects/pairstride.md) | Manual event alignment, linked two-video comparison and checked labeled movies. | Waiting for Review · 1.0 (1) and Lifetime Pro submitted October 20, 2026 at 00:36 PDT |
-| [Dateborne: Photo Date Editor](projects/dateborne.md) | Explicit photo dates/UTC offsets, separate JPEG/HEIC copies and saved-copy metadata checks. | Waiting for Review · 1.0 (1) and Lifetime Pro submitted October19,2026 at20:55PDT |
-| [Tileleaf: Poster Printing](projects/tileleaf.md) | Physically sized poster tiles, measured scale guidance and stable replacement-sheet projects. | Waiting for Review · 1.0 (1) and Lifetime Pro submitted October19,2026 |
-| [Foldwisp: Booklet Printing](projects/foldwisp.md) | Arrange PDFs into folded booklet sheets, preview reading order and calibrate manual duplex. | Submitted October 19 · app + Lifetime Pro Waiting for Review |
+| [Pairstride: Compare Videos](projects/pairstride.md) | Manual event alignment, linked two-video comparison and checked labeled movies. | App 1.0 (1) rejected on October 20, 2026. Detailed Apple feedback and current IAP status await verification. Recovery in progress; no new binary resubmission, approval or release. |
+| [Dateborne: Photo Date Editor](projects/dateborne.md) | Explicit photo dates/UTC offsets, separate JPEG/HEIC copies and saved-copy metadata checks. | App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. |
+| [Tileleaf: Poster Printing](projects/tileleaf.md) | Physically sized poster tiles, measured scale guidance and stable replacement-sheet projects. | App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. |
+| [Foldwisp: Booklet Printing](projects/foldwisp.md) | Arrange PDFs into folded booklet sheets, preview reading order and calibrate manual duplex. | App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. |
 | [Phrasevale: Audio Shadowing](projects/phrasevale.md) | Select phrases from owned audio, leave speaking pauses and compare paired responses by ear. | App rejected under 4.3(a), Oct19 · clarification response sent · Pro Ready for Review |
 | [MirrorLux: Makeup Mirror](projects/mirrorlux.md) | A pocket mirror for everyday touch-ups. | App Store |
 | [Contractor Calculator: Jobsite](projects/contractor-calculator.md) | Material estimates with the math explained. | App Store |
 | [Foliolette: Print to Size](projects/foliolette.md) | The photo sizes you choose, on one printable sheet. | App Store |
 | [Tracevelle: Tracing Lightbox](projects/tracevelle.md) | Prepare a pattern, then keep it still while tracing. | App Store |
-| [Pixmere: Photo Compressor](projects/pixmere.md) | Prepare photos for file-size and pixel constraints. | 1.0(4) + Lifetime Pro resubmitted October19 17:54PDT; Waiting for Review |
-| [Scrollmere: Long Screenshot](projects/scrollmere.md) | Turn overlapping screenshots into one long image. | 1.0(4) + Lifetime Pro resubmitted October19 17:54PDT; Waiting for Review |
+| [Pixmere: Photo Compressor](projects/pixmere.md) | Prepare photos for file-size and pixel constraints. | App Rejected4.3(a); Lifetime Pro Ready for Review. Existing Board appeal received; no binary resubmission or approval. |
+| [Scrollmere: Long Screenshot](projects/scrollmere.md) | Turn overlapping screenshots into one long image. | App Rejected4.3(a); Lifetime Pro Ready for Review. Existing Board appeal received; no binary resubmission or approval. |
 | [Interval Plain: Routine Timer](projects/interval-plain.md) | Fit routines to available time; keep chosen stages fixed. | 1.0(4) + Lifetime Pro resubmitted October19 17:54PDT; Waiting for Review |
 | [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
 | [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
 | [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
 | [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
 | [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
-| [GapLines: Scene Rehearsal](projects/gaplines.md) | Record partner cues, leave timed reply gaps and keep the complete rehearsal scene portable. | 1.0(4) + Lifetime Pro resubmitted October19 17:54PDT; Waiting for Review |
+| [GapLines: Scene Rehearsal](projects/gaplines.md) | Record partner cues, leave timed reply gaps and keep the complete rehearsal scene portable. | App Rejected4.3(a); Lifetime Pro Ready for Review. Existing Board appeal received; no binary resubmission or approval. |
 | [Her Daily Prayer Cards](projects/her-daily-prayer-cards.md) | Daily prayer cards, favorites and gentle reminders. | App Store |
 | [Culina: Cooking Converter](projects/culina.md) | Recipe conversions with ingredient context. | App Store |
 | [Lumino Daily Reflection](projects/lumino.md) | A quiet space for reflection and journaling. | App Store |

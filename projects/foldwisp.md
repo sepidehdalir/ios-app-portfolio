@@ -4,7 +4,7 @@
 
 Foldwisp arranges supported PDFs onto A4 or US Letter sheets for a nested, folded booklet. It combines a sheet-pair preview, intended reading-order preview and a physical manual-duplex calibration workflow, so users can test their printer's reload direction before printing the full stack.
 
-**Status — October 19, 2026:** version 1.0 (build 1) and Lifetime Pro were submitted together at 1:48 PM PDT. Both are **Waiting for Review**; no App Store approval or release is claimed. Shipping V1 is frozen. Physical core/UI checks and the requested owner-reported VoiceOver flow passed. TestFlight, genuine Sandbox testing and physical folded print proof are skipped by publisher instruction; unperformed transactions/restore and printer output remain unverified. The approved Data Not Collected declaration is published in App Store Connect, and the [privacy policy](https://sepidehdalir.github.io/foldwisp-showcase/privacy.html) is live.
+**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. Earlier submission and QA milestones are historical; no new recovery-test pass is claimed.
 
 [Public product showcase](https://github.com/sepidehdalir/foldwisp-showcase) · [Support](https://sepidehdalir.github.io/foldwisp-showcase/)
 
@@ -26,6 +26,6 @@ Independent imposition/output checks, persistence/cancellation regressions, loca
 
 The app has no account, analytics SDK, external AI or developer-operated document upload. Explicit user-selected Files providers, share destinations and printers retain their own behavior. Commercial source and private verification records remain in an independent private repository. The public showcase contains original product visuals and technical summaries.
 
-**App Store record:** 6824577159 · **Version:** 1.0 (1), Waiting for Review.
+**App Store record:** 6824577159 · **Version:** 1.0 (1), Rejected — recovery in progress.
 
 Built by [Sepideh Javanbakht Dalir](https://www.arvinify.com) · [hello@arvinify.com](mailto:hello@arvinify.com)
