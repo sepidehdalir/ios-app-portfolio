@@ -18,7 +18,7 @@ Dated local evidence covers deterministic date/rendering/source-retention tests,
 
 ## Release status
 
-**Current status — October 19, 2026: Stampvale app version is Rejected.** App Store Connect’s Apps list and the exact submission notification were checked. Exact review feedback is being assessed; no corrective resubmission, approval or release is claimed. Previous production checks remain dated evidence; app-specific skipped checks remain skipped.
+**Current review — October 19, 2026:** app version Rejected under4.3(a); Lifetime Pro Ready for Review. An app-specific clarification with a free reviewer path was sent and verified in App Store Connect, requesting the particular comparator/overlap and concrete safety, security or quality reproduction. No corrected binary, resubmission, approval or release is claimed.
 
 Status snapshot: October 16, 2026. Catalog availability and a review submission are different milestones. No demand, ranking or revenue claim.
 

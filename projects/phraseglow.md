@@ -2,7 +2,7 @@
 
 **Your words, a little clearer.** A native Universal iPhone and iPad app for everyday face-to-face communication: type a message, show readable big text, turn it toward someone opposite and optionally speak it with an installed Apple voice.
 
-**Current status — October 19, 2026: Phraseglow app version is Rejected.** App Store Connect’s Apps list and the exact submission notification were checked. Exact review feedback is being assessed; no corrective resubmission, approval or release is claimed. Previous production checks remain dated evidence; app-specific skipped checks remain skipped.
+**Current review — October 19, 2026:** app version Rejected under4.3(a); Lifetime Pro Ready for Review. An app-specific clarification with a free reviewer path was sent and verified in App Store Connect, requesting the particular comparator/overlap and concrete safety, security or quality reproduction. No corrected binary, resubmission, approval or release is claimed.
 
 <img src="https://raw.githubusercontent.com/sepidehdalir/phraseglow/main/assets/iPhone/01-Phraseglow.png" alt="Phraseglow Say it big campaign" width="260"> <img src="https://raw.githubusercontent.com/sepidehdalir/phraseglow/main/assets/iPhone/04-Phraseglow.png" alt="Pro phrase collections" width="260">
 

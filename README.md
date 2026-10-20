@@ -33,11 +33,11 @@ This collection brings together **23 product case studies**, including **11 apps
 | [Pixmere: Photo Compressor](projects/pixmere.md) | Prepare photos for file-size and pixel constraints. | 1.0(4) + Lifetime Pro resubmitted October19 17:54PDT; Waiting for Review |
 | [Scrollmere: Long Screenshot](projects/scrollmere.md) | Turn overlapping screenshots into one long image. | 1.0(4) + Lifetime Pro resubmitted October19 17:54PDT; Waiting for Review |
 | [Interval Plain: Routine Timer](projects/interval-plain.md) | Fit routines to available time; keep chosen stages fixed. | 1.0(4) + Lifetime Pro resubmitted October19 17:54PDT; Waiting for Review |
-| [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | Rejected · verified October19,2026; App Review recovery in progress |
-| [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | Rejected · verified October19,2026; App Review recovery in progress |
-| [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Rejected · verified October19,2026; App Review recovery in progress |
-| [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | Rejected · verified October19,2026; App Review recovery in progress |
-| [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Rejected · verified October19,2026; App Review recovery in progress |
+| [Stampvale: Photo Date Stamp](projects/stampvale.md) | Deliberate dates and captions for job photos. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
+| [Clipvelle: Video to Audio](projects/clipvelle.md) | Extract and trim sound from your own local videos. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
+| [Rowmoss: Row Counter](projects/rowmoss.md) | Keep completed rows, repeat position and recoverable undo together for knitting and crochet. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
+| [Phraseglow: Big Text Cards](projects/phraseglow.md) | Type, show, turn and speak local face-to-face message cards. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
+| [HemCard: Clothing Measurements](projects/hemcard.md) | Manual garment photo cards with exact units and matching listing text. | Rejected4.3(a) · app-specific clarification sent October19; concrete feedback pending |
 | [GapLines: Scene Rehearsal](projects/gaplines.md) | Record partner cues, leave timed reply gaps and keep the complete rehearsal scene portable. | 1.0(4) + Lifetime Pro resubmitted October19 17:54PDT; Waiting for Review |
 | [Her Daily Prayer Cards](projects/her-daily-prayer-cards.md) | Daily prayer cards, favorites and gentle reminders. | App Store |
 | [Culina: Cooking Converter](projects/culina.md) | Recipe conversions with ingredient context. | App Store |

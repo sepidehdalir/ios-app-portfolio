@@ -4,7 +4,7 @@
 
 Keep a video's sound as a clearly named audio file. Clipvelle imports a local video, exposes individual audio tracks, previews and trims a contiguous segment, then streams M4A or WAV output with inspected duration and size.
 
-**Current status — October 19, 2026: Clipvelle app version is Rejected.** App Store Connect’s Apps list and the exact submission notification were checked. Exact review feedback is being assessed; no corrective resubmission, approval or release is claimed. Previous production checks remain dated evidence; app-specific skipped checks remain skipped.
+**Current review — October 19, 2026:** app version Rejected under4.3(a); Lifetime Pro Ready for Review. An app-specific clarification with a free reviewer path was sent and verified in App Store Connect, requesting the particular comparator/overlap and concrete safety, security or quality reproduction. No corrected binary, resubmission, approval or release is claimed.
 
 <img src="https://raw.githubusercontent.com/sepidehdalir/clipvelle/main/docs/assets/iphone-campaign.png" width="1100" alt="Clipvelle iPhone campaign">
 <img src="https://raw.githubusercontent.com/sepidehdalir/clipvelle/main/docs/assets/ipad-campaign.png" width="1100" alt="Dedicated Clipvelle iPad campaign">
