@@ -4,7 +4,7 @@ Give family photos and film scans their own moment. Import a JPEG or HEIC still,
 
 [Product and support](https://sepidehdalir.github.io/dateborne/) · [Public case study](https://github.com/sepidehdalir/dateborne) · [Privacy policy](https://sepidehdalir.github.io/dateborne/privacy.html)
 
-**October 19, 2026: active production.** Native iPhone/iPad QA and a distribution-signed Universal archive are complete. Apple upload/review and genuine Sandbox checks remain in progress. Not submitted or released.
+**Submitted October19,2026 at20:55PDT: Dateborne1.0(1) and Lifetime Pro are Waiting for Review.** SubmissionID e6aa112f-fd91-45a8-acc9-4adb018f03d1. Native/device/Sandbox QA, signed archive, Apple validation and upload completed. V1 source is frozen. Not released.
 
 <img src="https://raw.githubusercontent.com/sepidehdalir/dateborne/main/assets/phone-01.png" width="250" alt="Dateborne: Give memories their moment"><img src="https://raw.githubusercontent.com/sepidehdalir/dateborne/main/assets/phone-02.png" width="250" alt="Choose explicit date and UTC offset"><img src="https://raw.githubusercontent.com/sepidehdalir/dateborne/main/assets/phone-03.png" width="250" alt="Read the exported embedded date">
 
@@ -18,7 +18,7 @@ SwiftUI with native ImageIO container copying and strict Gregorian/fixed-offset 
 
 A native HEIC experiment found stale dates despite a successful write result; replacement metadata plus output validation fixed it. An independent binary TIFF/EXIF parser verifies fixture fields without relying on ImageIO metadata synthesis. Tests also caught an upright JPEG without a TIFF directory; preserving orientation materializes the directory before dates are written.
 
-Native tests passed on small iPhone/iOS17, iPad/iOS17 and current iPhone/iOS26.5. Actual UI tests saved and reopened copies through Photos and Files. Other checks covered a 50-photo batch, original byte identity, cancellation, preset persistence, large type/Dark Mode/landscape, and automated accessibility contrast/clipping/hit targets. StoreKitTest passed locally on iOS17; iOS26.5's test service failed and is recorded separately. iOS15 compilation is verified; that runtime was unavailable. The physical owner test and genuine Sandbox purchase/restore are pending.
+Native tests passed on small iPhone/iOS17, iPad/iOS17 and current iPhone/iOS26.5. Actual UI tests saved and reopened copies through Photos and Files. Other checks covered a 50-photo batch, original byte identity, cancellation, preset persistence, large type/Dark Mode/landscape, and automated accessibility contrast/clipping/hit targets. StoreKitTest passed locally on iOS17; iOS26.5's test service failed and is recorded separately. iOS15 compilation is verified; that runtime was unavailable. The publisher reported successful physical real-photo saved-copy matching and genuine Sandbox purchase/restore on the connected iPhone running iOS26.1. Those owner reports are separate from automated native evidence; no production paid transaction is claimed.
 
 Commercial source is privately backed up; public assets contain authentic app UI and an original generated example photograph. No customer photos, signing files or credentials are published.
 
