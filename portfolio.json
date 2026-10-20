@@ -157,6 +157,16 @@
       "status": "Submitted October 20, 2026 at 00:36 PDT: 1.0 (1) and Lifetime Pro Waiting for Review; V1 frozen; not released",
       "case_study": "projects/pairstride.md",
       "showcase": "https://github.com/sepidehdalir/pairstride"
+    },
+    {
+      "slug": "moveleaf",
+      "name": "Moveleaf: Move In Report",
+      "app_id": "6825010014",
+      "catalog_available": false,
+      "status": "In production: 1.0 (1) Apple validated/uploaded and selected; privacy published; final physical photo/backup and genuine Sandbox checks pending; not submitted or released.",
+      "case_study": "projects/moveleaf.md",
+      "showcase": "https://github.com/sepidehdalir/moveleaf",
+      "review_status_updated_at": "2026-10-20"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
-This collection brings together **25 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
+This collection brings together **26 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
 
 [Website](https://www.arvinify.com) · [GitHub](https://github.com/sepidehdalir) · [Email](mailto:hello@arvinify.com)
 
@@ -23,6 +23,7 @@ This collection brings together **25 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
+| [Moveleaf: Move In Report](projects/moveleaf.md) | Room-area photos, explicit condition coverage and a portable PDF plus original-photo backup. | In production · validated/uploaded1.0(1), privacy published; final device/Sandbox checks pending; not submitted/released. |
 | [Pairstride: Compare Videos](projects/pairstride.md) | Manual event alignment, linked two-video comparison and checked labeled movies. | App 1.0 (1) rejected on October 20, 2026. Detailed Apple feedback and current IAP status await verification. Recovery in progress; no new binary resubmission, approval or release. |
 | [Dateborne: Photo Date Editor](projects/dateborne.md) | Explicit photo dates/UTC offsets, separate JPEG/HEIC copies and saved-copy metadata checks. | App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. |
 | [Tileleaf: Poster Printing](projects/tileleaf.md) | Physically sized poster tiles, measured scale guidance and stable replacement-sheet projects. | App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. |
