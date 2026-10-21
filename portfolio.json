@@ -167,6 +167,16 @@
       "case_study": "projects/moveleaf.md",
       "showcase": "https://github.com/sepidehdalir/moveleaf",
       "review_status_updated_at": "2026-10-20"
+    },
+    {
+      "slug": "stagetap",
+      "name": "StageTap: Theatre Sound Cues",
+      "app_id": "6825117733",
+      "catalog_available": false,
+      "status": "In production October20,2026: identity accepted; native22-case QA and Files saved-backup round trip verified; physical audio/Sandbox, signing and submission pending. TestFlight skipped. Not submitted or released.",
+      "case_study": "projects/stagetap.md",
+      "showcase": "https://github.com/sepidehdalir/stagetap",
+      "production_status_updated_at": "2026-10-20"
     }
   ]
 }
