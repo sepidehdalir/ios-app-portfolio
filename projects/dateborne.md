@@ -4,7 +4,7 @@ Give family photos and film scans their own moment. Import a JPEG or HEIC still,
 
 [Product and support](https://sepidehdalir.github.io/dateborne/) · [Public case study](https://github.com/sepidehdalir/dateborne) · [Privacy policy](https://sepidehdalir.github.io/dateborne/privacy.html)
 
-**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. Earlier submission and QA milestones are historical; no new recovery-test pass is claimed.
+**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. Earlier submission and QA milestones are historical; no new recovery-test pass is claimed. First app-specific clarification sent October20,2026; concrete feedback pending. No binary resubmission.
 
 <img src="https://raw.githubusercontent.com/sepidehdalir/dateborne/main/assets/phone-01.png" width="250" alt="Dateborne: Give memories their moment"><img src="https://raw.githubusercontent.com/sepidehdalir/dateborne/main/assets/phone-02.png" width="250" alt="Choose explicit date and UTC offset"><img src="https://raw.githubusercontent.com/sepidehdalir/dateborne/main/assets/phone-03.png" width="250" alt="Read the exported embedded date">
 

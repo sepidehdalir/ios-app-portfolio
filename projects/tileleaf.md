@@ -4,7 +4,7 @@
 
 Small sheets. Bigger ideas. Tileleaf expands a selected image or PDF page across numbered A4/Letter sheets, with physical artwork dimensions, an assembly map, a printed50mm scale check and stable selected-tile reprints.
 
-**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. Earlier submission and QA milestones are historical; no new recovery-test pass is claimed.
+**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. Earlier submission and QA milestones are historical; no new recovery-test pass is claimed. First app-specific clarification sent October20,2026; concrete feedback pending. No binary resubmission.
 
 Native SwiftUI/UIKit, Core Graphics/PDFKit, ImageIO, CryptoKit and StoreKit2. Universal iPhone/iPad deployment15+. Local projects retain app-owned sources and layout identity. Free complete export up to4artwork tiles; one-time LifetimePro for larger bounded grids, local projects and replacement exports. No subscription, account, content upload or analytics SDK.
 

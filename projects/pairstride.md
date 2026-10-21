@@ -2,7 +2,7 @@
 
 One moment. Two points of view. Pairstride aligns two short local SDR videos at a manually marked event, then plays, scrubs and exports their common overlap on one timeline.
 
-**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. Earlier submission and QA milestones are historical; no new recovery-test pass is claimed.
+**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. Earlier submission and QA milestones are historical; no new recovery-test pass is claimed. First app-specific clarification sent October20,2026; concrete feedback pending. No binary resubmission.
 
 [Product and support](https://sepidehdalir.github.io/pairstride/) · [Public showcase](https://github.com/sepidehdalir/pairstride) · [Privacy policy](https://sepidehdalir.github.io/pairstride/privacy.html)
 
