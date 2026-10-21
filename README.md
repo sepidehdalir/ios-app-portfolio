@@ -1,5 +1,7 @@
 # Sepideh Javanbakht Dalir · iOS App Portfolio
 
+**Unsubmitted recovery work — October21,2026:** Unsubmitted data-preservation fixes are prepared for Clipvelle, Scrollmere, Dateborne and Stampvale in their independent private repositories, with targeted native iOS17/26.5 evidence. Their last verified4.3 review states remain unchanged. These fixes are not approval or resubmission receipts; Interval Plain’s waiting build remains frozen. Existing premium campaigns remain unchanged.
+
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
 This collection brings together **27 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
