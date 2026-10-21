@@ -4,7 +4,7 @@
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
-This collection brings together **27 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
+This collection brings together **28 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
 
 [Website](https://www.arvinify.com) · [GitHub](https://github.com/sepidehdalir) · [Email](mailto:hello@arvinify.com)
 
@@ -25,6 +25,7 @@ This collection brings together **27 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
+| [Beadmora: Fuse Bead Patterns](projects/beadmora.md) | Owned pictures to editable bead charts, counts and labeled PDF sections. | In production October21,2026 · signed1.0(2) uploaded; final release gates pending; not submitted or released. |
 | [StageTap: Theatre Sound Cues](projects/stagetap.md) | Ordered local theatre sound cues, deliberate GO and a portable show backup. | In production October20,2026 · native simulator checks verified; physical audio, Sandbox, signing and submission pending; not released. |
 | [Moveleaf: Move In Report](projects/moveleaf.md) | Room-area photos, explicit condition coverage and a portable PDF plus original-photo backup. | Submitted October20,2026 at16:09PDT · app1.0(1)+LifetimePro WaitingforReview; V1 frozen; not released. |
 | [Pairstride: Compare Videos](projects/pairstride.md) | Manual event alignment, linked two-video comparison and checked labeled movies. | App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. |

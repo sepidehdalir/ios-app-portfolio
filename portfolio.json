@@ -178,6 +178,16 @@
       "showcase": "https://github.com/sepidehdalir/stagetap",
       "production_status_updated_at": "2026-10-21",
       "review_status_updated_at": "2026-10-21"
+    },
+    {
+      "slug": "beadmora",
+      "name": "Beadmora: Fuse Bead Patterns",
+      "app_id": "6825502820",
+      "catalog_available": false,
+      "status": "In production October21,2026; signed1.0(2) uploaded, native QA and campaigns verified; final device/Sandbox/privacy gates pending; not submitted or released.",
+      "case_study": "projects/beadmora.md",
+      "showcase": "https://github.com/sepidehdalir/beadmora",
+      "review_status_updated_at": "2026-10-21"
     }
   ]
 }
