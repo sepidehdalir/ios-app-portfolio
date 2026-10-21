@@ -1,6 +1,6 @@
 # Sepideh Javanbakht Dalir · iOS App Portfolio
 
-**Unsubmitted recovery work — October21,2026:** Data-preservation fixes are prepared for Clipvelle, Scrollmere, Dateborne, Stampvale and Pairstride in independent private repositories. Scrollmere additionally preserves Undo after a failed save; Pairstride retains its previous movie during cancelled replacement exports. Targeted native iOS17/26.5 checks and unsigned Release builds have dated evidence. These are not signed archives, approval or resubmission receipts, and do not establish4.3 resolution. Interval Plain’s waiting build remains frozen. Existing premium campaigns remain unchanged.
+**Unsubmitted recovery work — October21,2026:** Seven functional corrections are prepared across Clipvelle, Scrollmere, Dateborne, Stampvale, Pairstride and Phrasevale in independent private repositories. They preserve unreadable data, retryable Undo, checked movie output and phrase selection after failed saves. Targeted native iOS17/26.5 checks and unsigned Release builds have dated evidence. These are not signed archives, approval or resubmission receipts, and do not establish4.3 resolution. Interval Plain’s waiting build remains frozen. Existing premium campaigns remain unchanged.
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
