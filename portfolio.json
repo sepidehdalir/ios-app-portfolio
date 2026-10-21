@@ -173,10 +173,11 @@
       "name": "StageTap: Theatre Sound Cues",
       "app_id": "6825117733",
       "catalog_available": false,
-      "status": "Uploaded October21,2026 at12:31PDT; Apple validation passed. Awaiting build processing/selection and joint app+Lifetime Pro App Review submission. Device/Sandbox QA, fifteen campaigns and approved privacy complete. TestFlight skipped. Not submitted for review or released.",
+      "status": "Submitted October21,2026 at12:47PDT: app1.0(1) and Lifetime Pro both Waiting for Review. Apple validation/upload passed; V1 frozen; not approved or released. TestFlight skipped.",
       "case_study": "projects/stagetap.md",
       "showcase": "https://github.com/sepidehdalir/stagetap",
-      "production_status_updated_at": "2026-10-21"
+      "production_status_updated_at": "2026-10-21",
+      "review_status_updated_at": "2026-10-21"
     }
   ]
 }
