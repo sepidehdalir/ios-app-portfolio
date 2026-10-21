@@ -64,6 +64,7 @@ This is a curated public portfolio. Commercial production repositories are priva
 ## More web and software work
 
 - [PetsClub.ca](https://github.com/sepidehdalir/petsclub-ca) — pet community and editorial platform.
+- [Romina Piano](https://romina-piano.arvini.chatgpt.site) — bilingual piano-lesson website for online students worldwide and in-person lessons in Tehran; Persian/English experience with WhatsApp enquiries. [Case study](projects/romina-piano.md) · [Source](web/romina-piano)
 - [QuoteYard](https://github.com/sepidehdalir/Quoteyard) — contractor lead and quote-management dashboard.
 - [Arvinify](https://github.com/sepidehdalir/Arvinify) — product and services website.
 - [Saeed Contracting](https://github.com/sepidehdalir/saeed-contracting)
