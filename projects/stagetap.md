@@ -4,7 +4,7 @@
 
 **Give every sound its moment.** A native iPhone and iPad workspace for small school and community-theatre rehearsals. Prepare owned local audio, read operator notes and deliberately fire one sound at a time.
 
-Status — October20,2026: **in production; not submitted or released.** Apple accepted identity6825117733. TestFlight is skipped by publisher instruction. Physical audio-route/long-rehearsal, Apple Sandbox, final signing and App Review submission remain open.
+Status — October20,2026: **in production; not submitted or released.** Apple accepted identity6825117733. TestFlight is skipped by publisher instruction. The publisher confirmed the real-audio/ZIP and Apple Sandbox Pro workflows. Signed Universal archive/export, fifteen App Store campaign uploads and approved privacy publication are complete. Apple upload validation and App Review submission remain open.
 
 [Product and case study](https://sepidehdalir.github.io/stagetap/) · [Support and original demo show](https://sepidehdalir.github.io/stagetap/support.html) · [Privacy](https://sepidehdalir.github.io/stagetap/privacy.html) · [Showcase repository](https://github.com/sepidehdalir/stagetap)
 
@@ -27,6 +27,6 @@ Status — October20,2026: **in production; not submitted or released.** Apple a
 
 Twenty-two targeted core, native media/playback and local StoreKit tests passed on iOS17. Native Files MP3 import, recoverable malformed-audio error and phone/iPad playback flows ran on26.5. A five-cue show was saved through Files, moved to recoverable Trash, then the actual saved ZIP restored through Files. Independent verification confirmed CRC, original manifest equality, all encoded audio bytes/hashes, five cues and fresh show/cue IDs. Initial location/filename test-selector failures are retained separately, not claimed as passes.
 
-Simulator checks do not establish audible hardware gain/fade, real routes, long-rehearsal reliability or Apple Sandbox transactions. Those production gates remain open. Commercial source is backed up in an independent private repository. This source-free case study presents product work, original illustrative stage imagery and original synthetic demo audio.
+Simulator checks do not establish audible hardware behavior. Separately, on October20 the publisher confirmed the real-audio/ZIP workflow and Apple Sandbox purchase, second show, cue-setting template, relaunch and Restore Purchases. External route/interruption hardware coverage is not separately itemized. The signed Universal15 archive and App Store export passed local checks; Apple server validation/upload and actual App Review receipt remain open. All fifteen premium campaign frames are uploaded, and the Data Not Collected label was published with StageTap-specific approval. Commercial source is backed up in an independent private repository. This source-free case study presents product work, original illustrative stage imagery and original synthetic demo audio.
 
 **Sepideh Javanbakht Dalir** · [Arvinify](https://www.arvinify.com)
