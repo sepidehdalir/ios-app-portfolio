@@ -27,7 +27,7 @@ This collection brings together **28 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
-| [Beadmora: Fuse Bead Patterns](projects/beadmora.md) | Owned pictures to editable bead charts, counts and labeled PDF sections. | In production October21,2026 · signed1.0(2) uploaded; final release gates pending; not submitted or released. |
+| [Beadmora: Fuse Bead Patterns](projects/beadmora.md) | Owned pictures to editable bead charts, counts and labeled PDF sections. | App1.0(3) + Lifetime Pro submitted October22,2026 · Waiting for Review; not yet released. |
 | [StageTap: Theatre Sound Cues](projects/stagetap.md) | Ordered local theatre sound cues, deliberate GO and a portable show backup. | App1.0(1) Rejected4.3(a); Lifetime Pro Ready for Review. Existing clarification posted; no binary resubmission or approval. |
 | [Moveleaf: Move In Report](projects/moveleaf.md) | Room-area photos, explicit condition coverage and a portable PDF plus original-photo backup. | App1.0(1) Rejected4.3(a); Lifetime Pro Ready for Review. Existing clarification posted; no binary resubmission or approval. |
 | [Pairstride: Compare Videos](projects/pairstride.md) | Manual event alignment, linked two-video comparison and checked labeled movies. | App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. |

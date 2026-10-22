@@ -4,7 +4,7 @@
 
 Beadmora is a focused Universal iPhone and iPad app that turns an owned image into an editable fuse-bead chart, then exports a clear PDF with symbols, counts and labeled board sections.
 
-**Status · October 21, 2026:** version 1.0 is in production. App Review submission is pending final release checks; the app is not released. TestFlight distribution is skipped by publisher instruction. This public repository is a product and engineering showcase. Commercial source remains private.
+**Status · October 22, 2026:** version 1.0(3) and Lifetime Pro were submitted together at 15:05 PDT and are Waiting for Review. The app is not yet released. TestFlight distribution is skipped by publisher instruction. This public repository is a product and engineering showcase. Commercial source remains private.
 
 [Product showcase](https://sepidehdalir.github.io/beadmora/) · [Privacy policy](https://sepidehdalir.github.io/beadmora/privacy.html) · [Workflow and support](https://sepidehdalir.github.io/beadmora/support.html)
 
@@ -27,7 +27,7 @@ The free core includes one active project, charts up to 29 × 29, all cell and p
 
 ## Verification and campaign
 
-Dated private production evidence includes 27 native core/pipeline/local StoreKit tests on iOS17, actual PDF saving through Files, native drawing/undo checks, maximum 116 × 116 chart creation, saved palettes, backup restoration with unchanged chart values and a fresh identity, large-text/dark-mode checks and a narrow iPad workflow. Local StoreKit tests are not represented as live Apple Sandbox results. Owner/device release checks and App Review submission remain separate gates.
+Dated private production evidence includes 29 native core/pipeline/local StoreKit tests on iOS17, actual PDF saving through Files, native drawing/undo checks, maximum 116 × 116 chart creation, saved palettes, backup restoration with unchanged chart values and a fresh identity, large-text/dark-mode checks and a narrow iPad workflow. Local StoreKit tests are not represented as live Apple Sandbox results. The publisher separately reported that the owned-photo/PDF/backup/relaunch and genuine Apple Sandbox purchase/restore checks passed. A prebuilt physical automated retry executed no tests because the device was unavailable. The joint submission receipt is 314dc9b2-b1c6-47af-990d-a7352fc43d90; V1 is frozen while awaiting review.
 
 The campaign uses original generated botanical imagery processed through the actual app, authentic native UI captures and actual exported PDFs. Dedicated phone and iPad compositions tell the value, workflow and result before editing and premium scope. No simulated physical finished beadwork or unsupported matching/accuracy claim is used.
 
