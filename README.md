@@ -1,5 +1,7 @@
 # Sepideh Javanbakht Dalir · iOS App Portfolio
 
+**Sequential recovery — October 22, 2026:** Clipvelle is first: corrected candidate 1.0(4), six additional local simulator checks passed, signed archive and local App Store IPA export verified. It has not been Apple-validated, uploaded or resubmitted. Scrollmere is next for justified readiness work. Interval Plain’s waiting build remains untouched.
+
 **Unsubmitted recovery work — October 21, 2026:** Nine functional corrections are prepared across eight apps: Clipvelle, Scrollmere, Dateborne, Stampvale, Pairstride, Phrasevale, Foldwisp and Tileleaf. They preserve unreadable data, retryable Undo, checked output and consistent save state. Tileleaf also retains and reopens a prepared PDF after cancelled replacement. Scoped native QA and unsigned Release builds have dated evidence; the interrupted Tileleaf iOS 26.5 local StoreKit attempt is not a billing pass. These are not signed archives, approval or resubmission receipts, and do not establish 4.3 resolution. Interval Plain’s waiting build remains unchanged. Existing premium campaigns remain unchanged.
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
