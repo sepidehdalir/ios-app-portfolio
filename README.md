@@ -82,3 +82,6 @@ Product descriptions reflect verified source documentation and public listings. 
 GapLines case study and reviewed iPhone/iPad campaigns added October18,2026. Its production status is dated independently of the October16 public-catalog audit.
 
 Foldwisp case study and dedicated iPhone/iPad campaigns added October 19, 2026. Its in-production status is separate from the October 16 public-catalog audit.
+
+
+**GapLines recovery — October22:** Apple’s last verified4.3(a) rejection alleges similar binary/metadata/concept but identifies no comparator or reproduction. Local1.0(4) adds a free printable rehearsal cue sheet with actor-entered labels, cue order and reply timing; native iOS17 iPhone/iPadOS26.5 sharing and pagination checks pass. Development-signed archive verified; distribution/server validation/upload/resubmission pending. Two dedicated campaign frames reviewed and published in the [GapLines case study](https://github.com/sepidehdalir/gaplines). This does not establish4.3 resolution. Interval Plain remains unchanged. Stampvale build2 workflow checks were preserved; its local export was interrupted when the publisher prioritized GapLines.
