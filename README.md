@@ -1,6 +1,6 @@
 # Sepideh Javanbakht Dalir · iOS App Portfolio
 
-**Unsubmitted recovery work — October21,2026:** Eight functional corrections are prepared across Clipvelle, Scrollmere, Dateborne, Stampvale, Pairstride, Phrasevale and Foldwisp in independent private repositories. They preserve unreadable data, retryable Undo, checked movie output phrase selection after failed saves and unreadable printer presets. Targeted native iOS17/26.5 checks and unsigned Release builds have dated evidence. These are not signed archives, approval or resubmission receipts, and do not establish4.3 resolution. Interval Plain’s waiting build remains frozen. Existing premium campaigns remain unchanged.
+**Unsubmitted recovery work — October 21, 2026:** Nine functional corrections are prepared across eight apps: Clipvelle, Scrollmere, Dateborne, Stampvale, Pairstride, Phrasevale, Foldwisp and Tileleaf. They preserve unreadable data, retryable Undo, checked output and consistent save state. Tileleaf also retains and reopens a prepared PDF after cancelled replacement. Scoped native QA and unsigned Release builds have dated evidence; the interrupted Tileleaf iOS 26.5 local StoreKit attempt is not a billing pass. These are not signed archives, approval or resubmission receipts, and do not establish 4.3 resolution. Interval Plain’s waiting build remains unchanged. Existing premium campaigns remain unchanged.
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
