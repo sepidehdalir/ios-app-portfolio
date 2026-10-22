@@ -1,28 +1,25 @@
 # GapLines: Scene Rehearsal
 
-**Status — October 19, 2026:** app 1.0 (3) Rejected under Guideline 4.3(a); Lifetime Pro Ready for Review. Apple confirmed receipt of the app-specific Board appeal. Decision pending. Not released.
+**October22,2026 — substantial candidate1.0(5), UNSUBMITTED.** Last verified Apple version1.0(3) remains Rejected4.3(a), Lifetime Pro Ready for Review. Existing clarification/Board appeal retained. No approval or market-originality claim.
 
-[Product showcase and support](https://sepidehdalir.github.io/gaplines/) · [Public project](https://github.com/sepidehdalir/gaplines) · [Privacy](https://sepidehdalir.github.io/gaplines/privacy.html)
+[Product, complete campaign and support](https://sepidehdalir.github.io/gaplines/) · [Privacy](https://sepidehdalir.github.io/gaplines/privacy.html) · [Portfolio](https://github.com/sepidehdalir/ios-app-portfolio)
 
-<img src="https://raw.githubusercontent.com/sepidehdalir/gaplines/main/assets/iphone-01-room-for-your-reply.png" width="240" alt="Real recorded-scene player in the Room for your reply campaign"> <img src="https://raw.githubusercontent.com/sepidehdalir/gaplines/main/assets/iphone-02-record-the-other-side.png" width="240" alt="Native recording and speaker-label editor"> <img src="https://raw.githubusercontent.com/sepidehdalir/gaplines/main/assets/iphone-03-your-pace.png" width="240" alt="A paused timed reply gap">
+<img src="https://raw.githubusercontent.com/sepidehdalir/gaplines/main/assets/script-iphone-01-own-your-reply.png" width="245" alt="Role-based script rehearsal"> <img src="https://raw.githubusercontent.com/sepidehdalir/gaplines/main/assets/script-iphone-02-script-and-character.png" width="245" alt="Bring your own character-labelled dialogue"> <img src="https://raw.githubusercontent.com/sepidehdalir/gaplines/main/assets/script-iphone-03-progressive-hints.png" width="245" alt="Progressive recall hints">
 
-Actors need partner cues and room to answer. GapLines stores recorded dialogue and explicit, editable silence in one scene. Record a cue, label the speaker, add a reply gap and rehearse in order. Pause, seek, skip or repeat. Export a playable WAV or a validated portable backup containing recordings, labels and timing.
+The actor workflow is now bring script -> review characters -> choose role -> hear other roles -> hide/reveal your lines -> repeat/mark difficult cues -> record optional solo practice takes -> save and resume scene progress. Built-in Apple voices have per-character choice, speed and pause. No automatic speech recognition or cloud reader. Practice recording pauses synthetic speech; it is not a mixed session. Legacy recorded-line/timed-gap documents, WAV/PDF exports and backups remain supported.
 
-One complete scene, single-scene export and backup/restore are free. A one-time Lifetime Pro upgrade adds multiple scenes, saved gap presets and batch export. No subscription, account, AI voice or supplied licensed script.
+One complete script scene plus one recorded scene remain free, including essential rehearsal, hints, takes and backup/restore. The existing one-time Lifetime Pro purchase adds multiple scenes, presets and batch export. Saved material stays accessible after entitlement changes. No account or supplied licensed scripts. UTF-8 .txt CHARACTER: dialogue,128KB/500 cues/20 characters; no PDF/OCR/transcription. Foreground rehearsal. Personal Voices and third-party speech providers are excluded.
 
-## Product and engineering work
+## Engineering and evidence
 
-- Native SwiftUI scene editor and dedicated iPad library/workspace layout.
-- AVFoundation microphone recording and playback, monotonic gap clocks, actual player-clock reconciliation, pause preservation and guarded callbacks.
-- Immutable validated takes and atomic versioned manifests preserve committed work during failures.
-- Bounded, staged backup validation checks paths, identifiers, media and timing before a deliberate keep-both or replacement restore.
-- Streamed PCM WAV export renders the real recorded sequence and complete final silence; cancellation leaves source scenes intact.
-- StoreKit 2 signed entitlement handling, explicit paid boundaries and access to existing work after an entitlement changes.
+Version1 libraries decode without rewriting; script-bearing documents use validated version2 backups. Role, selected scene and cue survive relaunch and restore. Atomic commits reject oversized manifests before replacing prior bytes. A cancellable native speech state machine owns pause, interruptions and stale callbacks; failed/unavailable speech leaves an actionable notice and saved place. Native microphone controls are explicit and denial does not block text rehearsal.
 
-<img src="https://raw.githubusercontent.com/sepidehdalir/gaplines/main/assets/ipad-01-room-for-your-reply.png" width="760" alt="Distinct iPad campaign with the native scene library and player side by side">
+Scoped native runs passed on iOS17 SE3 and iOS26.5 iPhone17Pro/iPadPro: full storage/core/local StoreKit36/36 on17, final speech/purchase scope14/14 on17, final speech/native campaign10/10 onPad, phone journey/campaign2/2, and stabilized campaign captures1/1 each. These overlap and are not a sum of unique test coverage. Actual built-in voice PCM, completion/cancel and directed pause are tested. Automated contrast/descriptions/clipping pass at accessibility text sizes; human VoiceOver is unverified. Failures uncovered resume, manifest quota, default voice asset and iPad denial/contrast problems that were corrected; raw failure evidence remains private.
 
-The final core/local-purchase/capture suite passed 32 tests. Physical-iPhone objective QA recorded and fully decoded 144,015 nonzero microphone frames, reopened the saved library/model, completed Speaker playback through the final gap, exported 188,115 WAV frames and restored a portable backup. These checks do not imply subjective listening quality or real phone-call/headphone-unplug verification. Native UI checks cover phone/tablet workflows, landscape, small screens, large text and dark appearance.
+Build5 development archive and automatic App Store distribution export pass strict signature/identity/privacy/no-test-resource inspection. This is not Apple server validation or a resubmission. Apple login and current physical microphone/playback/route/airplane-mode checks remain gates; actual iOS15 is unavailable. Remaining genuine Sandbox is explicitly publisher-skipped, not passed. TestFlight skipped by publisher. Prior build3 physical evidence is historical.
 
-The release bundle targets Universal iPhone+iPad 15+ with the current SDK; an iOS 15 runtime was unavailable locally. Remote product lookup is verified. Remaining genuine Sandbox purchase verification was skipped by publisher instruction, with no pass claimed. App 1.0 (3) was submitted with Lifetime Pro on October 18. App Review rejected the app under Guideline 4.3(a) on October 19. Apple confirmed receipt of the Board appeal explaining the implemented workflow and requesting clarification; no binary resubmission is claimed. The public project contains reviewed campaigns, engineering context and support/privacy pages. Commercial source and private recordings remain private.
+<img src="https://raw.githubusercontent.com/sepidehdalir/gaplines/main/assets/script-ipad-01-own-your-reply.png" width="760" alt="Dedicated iPad rehearsal composition">
 
-Created by [Sepideh Javanbakht Dalir](https://www.arvinify.com). [Back to portfolio](../README.md).
+Twelve new art-directed phone/tablet frames were inspected at full export size and thumbnail. Original QA dialogue and authentic native UI; no private audio, production source or user media in this public repository. Historical earlier campaign files remain but are not the build5 candidate campaign. Metadata and specific reviewer walkthrough are prepared privately, not posted. This complete workflow is offered for re-review without claiming novelty or guaranteed4.3 acceptance.
+
+Created by **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · [hello@arvinify.com](mailto:hello@arvinify.com)
