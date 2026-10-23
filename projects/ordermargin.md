@@ -2,7 +2,7 @@
 
 Custom-order costs, a considered customer quote and a balance kept in view. Native Universal iPhone and iPad, minimum iOS/iPadOS15.
 
-**Status — October23,2026:** App1.0(1), Annual Pro, Lifetime Pro and required subscription group jointly submitted to Apple. Actual receipt confirms four items submitted and app Waiting for Review. Physical native QA passed23/23; publisher separately reports genuine Apple-explicit Sandbox purchase/restore and requested workflows passed. App-specific DataNotCollected privacy responses are published. Shipping source is frozen; no Apple approval or public release is claimed.
+**Status — October23,2026:** Apple rejected app1.0(1) under Guideline4.3(a) at11:08PDT, citing similar binary/metadata/concept. Annual Pro, Lifetime Pro and the group are Ready for Review in submission `fa1ef78b-ba4b-45f2-9865-787b39f84c8d`. App-specific clarification is drafted; no new reply, resubmission, approval or release claimed. The earlier four-item submission, physical23/23 native checks, publisher-reported genuine Apple-explicit Sandbox purchases/restores and privacy publication remain dated historical evidence. Shipping runtime stays frozen while actionable review guidance is sought.
 
 [Product tour](https://sepidehdalir.github.io/ordermargin/) · [Public showcase](https://github.com/sepidehdalir/ordermargin) · [Support](https://sepidehdalir.github.io/ordermargin/support.html) · [Privacy](https://sepidehdalir.github.io/ordermargin/privacy.html)
 
