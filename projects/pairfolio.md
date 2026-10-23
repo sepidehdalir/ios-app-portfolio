@@ -4,7 +4,7 @@
 
 Native iPhone/iPad job handoffs for solo cleaners, handymen and maintenance operators. Labeled Before/After slots, a task checklist and factual notes become a readable client PDF, with portable local job backups and recoverable Trash.
 
-**Status · October 22, 2026:** Version 1.0 is in production QA and release preparation. App Store Connect identity is accepted; no App Review submission, approval or public release is claimed. Commercial source is private. This repository contains only the professional product showcase and original presentation assets.
+**Status · October 22, 2026:** Version 1.0(3) and Lifetime Pro were submitted together at 22:18 PDT and are Waiting for Review. No approval or public release is claimed. V1 is frozen; TestFlight distribution is skipped by publisher instruction. Commercial source is private. This repository contains only the professional product showcase and original presentation assets.
 
 [Product showcase](https://sepidehdalir.github.io/pairfolio/) · [Workflow and support](https://sepidehdalir.github.io/pairfolio/support.html) · [Privacy](https://sepidehdalir.github.io/pairfolio/privacy.html)
 
@@ -20,7 +20,7 @@ StoreKit 2 loads localized product prices, verifies purchase access, handles pen
 
 ## Evidence and privacy
 
-Private dated production records distinguish model/image/PDF tests, actual native UI workflows and local StoreKit tests from physical-device and genuine Apple Sandbox results. Final release gates are still being completed. Actual iOS 15 runtime was unavailable; compilation at15minimum is separate from native execution on installed17/26.5 runtimes.
+Private dated production records distinguish model/image/PDF tests, actual native UI workflows and local StoreKit tests from physical-device and genuine Apple Sandbox results. Six native tests also passed on a physical iPhone 17 Pro Max/iOS 27.2. The publisher separately reported that camera/owned-photo, saved PDF/backup, Trash/relaunch/fresh import and genuine Apple Sandbox purchase/Pro/relaunch/Restore checks all passed. These owner-reported observations remain separate from automated/local StoreKit receipts. Joint App Review receipt: ae9e87d9-69b5-4f6a-9888-f59f8ac70ccb. Actual iOS 15 runtime was unavailable; compilation at15minimum is separate from native execution on installed17/26.5 runtimes.
 
 There is no developer backend, account, ad SDK or analytics uploader. Photos and jobs are processed locally; Apple manages purchases and users select their own Files/share destinations. The example photographs are original generated images, imported and rendered through the real app. They are not actual customer jobs. The shown PDF is actual native output. Five dedicated iPhone and five iPad campaign exports use stabilized actual native UI and real PDF output, with full-size and App Store thumbnail review. The example Copper & Pine logo is an original fictional business sample.
 

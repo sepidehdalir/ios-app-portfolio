@@ -27,7 +27,7 @@ This collection brings together **29 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
-| [Pairfolio: Before After Photos](projects/pairfolio.md) | Paired job photos, task completeness, readable client PDFs and portable local job backups. | In production October22,2026 · signed1.0(3), local native/StoreKit QA and dedicated campaigns complete; physical/live Sandbox and submission gates pending. |
+| [Pairfolio: Before After Photos](projects/pairfolio.md) | Paired job photos, task completeness, readable client PDFs and portable local job backups. | App1.0(3) + Lifetime Pro submitted October22,2026 at22:18PDT · Waiting for Review; not released. |
 | [Beadmora: Fuse Bead Patterns](projects/beadmora.md) | Owned pictures to editable bead charts, counts and labeled PDF sections. | App1.0(3) + Lifetime Pro submitted October22,2026 · Waiting for Review; not yet released. |
 | [StageTap: Theatre Sound Cues](projects/stagetap.md) | Ordered local theatre sound cues, deliberate GO and a portable show backup. | App1.0(1) Rejected4.3(a); Lifetime Pro Ready for Review. Existing clarification posted; no binary resubmission or approval. |
 | [Moveleaf: Move In Report](projects/moveleaf.md) | Room-area photos, explicit condition coverage and a portable PDF plus original-photo backup. | App1.0(1) Rejected4.3(a); Lifetime Pro Ready for Review. Existing clarification posted; no binary resubmission or approval. |
