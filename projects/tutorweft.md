@@ -2,7 +2,7 @@
 
 Every lesson. A clear balance. A native lesson-package record for independent tutors and music teachers, with sessions and manual payments kept separate.
 
-**Status — October23,2026:** Candidate1.0(1) uploaded successfully to Apple.31 selected core/storage/PDF/logo cases and a separate critical-path UI case passed on the physical iPhone. Final publisher genuine Apple Sandbox workflows, privacy declaration publication and the remaining App Review package are pending. This is not an App Review submission, approval or public release. TestFlight skipped by publisher instruction.
+**Status — October23,2026:** App1.0(1), Annual Pro, Lifetime Pro and Tutorweft Pro subscription group were jointly submitted at12:53PDT; all four are Waiting for Review. Submission `9278c064-aa9c-46dc-84ad-e03e28df2e31`. The publisher reports the final installed-app workflows and both Apple-explicit Sandbox purchases/restores passed; privacy was published after app-specific approval. Physical31 selected core/storage/PDF/logo cases and a separate critical UI case passed. V1 is frozen pending review; no approval or release claimed. TestFlight skipped by publisher instruction.
 
 [Product tour](https://sepidehdalir.github.io/tutorweft/) · [Public showcase](https://github.com/sepidehdalir/tutorweft) · [Workflow & support](https://sepidehdalir.github.io/tutorweft/support.html) · [Privacy](https://sepidehdalir.github.io/tutorweft/privacy.html)
 
@@ -16,7 +16,7 @@ Free includes three active students, basic lessons/packages, corrections, rollov
 
 ## Native implementation and evidence
 
-Universal iPhone and iPad, deployment minimum15 and current SDK26.5. Codable graph validation and atomic local writes preserve existing work after failed saves or unreadable data. Finite recurrence follows its stored time zone and calendar rules. Archived backup imports receive fresh linked identities without replacing active work; native Files save/import and relaunch have dated evidence. iPad has an independent two-column package workspace, with actual portrait/landscape checks. Small-phone dark mode and largest text, current phone/iPad, generic local reminders, native PDF pagination and local StoreKit have separate dated checks. Actual iOS15 runtime and genuine Apple Sandbox remain distinct from those results.
+Universal iPhone and iPad, deployment minimum15 and current SDK26.5. Codable graph validation and atomic local writes preserve existing work after failed saves or unreadable data. Finite recurrence follows its stored time zone and calendar rules. Archived backup imports receive fresh linked identities without replacing active work; native Files save/import and relaunch have dated evidence. iPad has an independent two-column package workspace, with actual portrait/landscape checks. Small-phone dark mode and largest text, current phone/iPad, generic local reminders, native PDF pagination and local StoreKit have separate dated checks. Actual iOS15 runtime remains unavailable. Genuine Apple Sandbox purchases/restores are separately owner-reported; local StoreKit automation is not substituted for them.
 
 No developer backend, account, ads, analytics or tracking. Apple manages purchases; selected logos are processed locally. Exports are shared only to a user-selected destination. Commercial production source and detailed private evidence remain private.
 

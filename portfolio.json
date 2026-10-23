@@ -194,10 +194,11 @@
       "name": "Tutorweft: Lesson Packages",
       "app_id": "6826324656",
       "catalog_available": false,
-      "status": "Production candidate1.0(1) uploaded October23,2026; physical native and critical UI checks passed; final publisher Sandbox/privacy and App Review package pending. Not submitted or released.",
+      "status": "App1.0(1), Annual Pro, Lifetime Pro and subscription group jointly submitted October23,2026 at12:53PDT. All four Waiting for Review; not approved or released.",
       "case_study": "projects/tutorweft.md",
       "showcase": "https://github.com/sepidehdalir/tutorweft",
-      "production_status_updated_at": "2026-10-23"
+      "production_status_updated_at": "2026-10-23",
+      "submission_id": "9278c064-aa9c-46dc-84ad-e03e28df2e31"
     }
   ]
 }
