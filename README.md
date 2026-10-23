@@ -6,7 +6,7 @@
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
-This collection brings together **30 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
+This collection brings together **31 iOS product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
 
 [Website](https://www.arvinify.com) · [GitHub](https://github.com/sepidehdalir) · [Email](mailto:hello@arvinify.com)
 
@@ -27,6 +27,7 @@ This collection brings together **30 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
+| [Tutorweft: Lesson Packages](projects/tutorweft.md) | Lesson packages, session-credit history, manual payments, clear statements and local backups for independent tutors. | Candidate1.0(1) uploaded October23; final Sandbox/privacy and review package pending; not submitted or released. |
 | [OrderMargin: Custom Quotes](projects/ordermargin.md) | Materials, labor and overhead to a customer quote, estimated margin, manual deposits and local backups. | App1.0(1), Annual + Lifetime Pro and group submitted October23,2026 · Waiting for Review; not released. |
 | [Pairfolio: Before After Photos](projects/pairfolio.md) | Paired job photos, task completeness, readable client PDFs and portable local job backups. | App1.0(3) + Lifetime Pro submitted October22,2026 at22:18PDT · Waiting for Review; not released. |
 | [Beadmora: Fuse Bead Patterns](projects/beadmora.md) | Owned pictures to editable bead charts, counts and labeled PDF sections. | App1.0(3) + Lifetime Pro submitted October22,2026 · Waiting for Review; not yet released. |

@@ -7,7 +7,7 @@
       "name": "MirrorLux: Makeup Mirror",
       "app_id": "6797422767",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0.1",
+      "status": "Available on the US App Store · version 1.0.1",
       "case_study": "projects/mirrorlux.md",
       "showcase": null
     },
@@ -16,7 +16,7 @@
       "name": "Contractor Calculator: Jobsite",
       "app_id": "6815061123",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "status": "Available on the US App Store · version 1.0.0",
       "case_study": "projects/contractor-calculator.md",
       "showcase": null
     },
@@ -25,7 +25,7 @@
       "name": "Foliolette: Print to Size",
       "app_id": "6816755162",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0",
+      "status": "Available on the US App Store · version 1.0",
       "case_study": "projects/foliolette.md",
       "showcase": "https://github.com/sepidehdalir/foliolette-showcase"
     },
@@ -34,7 +34,7 @@
       "name": "Tracevelle: Tracing Lightbox",
       "app_id": "6816772893",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0",
+      "status": "Available on the US App Store · version 1.0",
       "case_study": "projects/tracevelle.md",
       "showcase": "https://github.com/sepidehdalir/tracevelle-showcase"
     },
@@ -73,7 +73,7 @@
       "name": "Stampvale: Photo Date Stamp",
       "app_id": null,
       "catalog_available": false,
-      "status": "In production \u00b7 not submitted or publicly released as of 2026-10-16",
+      "status": "In production · not submitted or publicly released as of 2026-10-16",
       "case_study": "projects/stampvale.md",
       "showcase": "https://github.com/sepidehdalir/stampvale-showcase"
     },
@@ -82,7 +82,7 @@
       "name": "Her Daily Prayer Cards",
       "app_id": "6788279130",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0",
+      "status": "Available on the US App Store · version 1.0",
       "case_study": "projects/her-daily-prayer-cards.md",
       "showcase": null
     },
@@ -91,7 +91,7 @@
       "name": "Culina: Cooking Converter",
       "app_id": "6815367326",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "status": "Available on the US App Store · version 1.0.0",
       "case_study": "projects/culina.md",
       "showcase": null
     },
@@ -100,7 +100,7 @@
       "name": "Lumino Daily Reflection",
       "app_id": "6786564391",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0.3",
+      "status": "Available on the US App Store · version 1.0.3",
       "case_study": "projects/lumino.md",
       "showcase": null
     },
@@ -109,7 +109,7 @@
       "name": "Paycheck Calculator: W-4",
       "app_id": "6815119897",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "status": "Available on the US App Store · version 1.0.0",
       "case_study": "projects/paycheck-calculator.md",
       "showcase": null
     },
@@ -118,16 +118,16 @@
       "name": "Zakat Clear: Nisab Calculator",
       "app_id": "6814923109",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0",
+      "status": "Available on the US App Store · version 1.0",
       "case_study": "projects/zakat-clear.md",
       "showcase": null
     },
     {
       "slug": "dealora",
-      "name": "Discount Calculator \u00b7 Dealora",
+      "name": "Discount Calculator · Dealora",
       "app_id": "6815449806",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "status": "Available on the US App Store · version 1.0.0",
       "case_study": "projects/dealora.md",
       "showcase": null
     },
@@ -136,7 +136,7 @@
       "name": "Age Calculator: Life & Days",
       "app_id": "6814644191",
       "catalog_available": true,
-      "status": "Available on the US App Store \u00b7 version 1.0.0",
+      "status": "Available on the US App Store · version 1.0.0",
       "case_study": "projects/age-calculator.md",
       "showcase": null
     },
@@ -188,6 +188,16 @@
       "case_study": "projects/beadmora.md",
       "showcase": "https://github.com/sepidehdalir/beadmora",
       "review_status_updated_at": "2026-10-21"
+    },
+    {
+      "slug": "tutorweft",
+      "name": "Tutorweft: Lesson Packages",
+      "app_id": "6826324656",
+      "catalog_available": false,
+      "status": "Production candidate1.0(1) uploaded October23,2026; physical native and critical UI checks passed; final publisher Sandbox/privacy and App Review package pending. Not submitted or released.",
+      "case_study": "projects/tutorweft.md",
+      "showcase": "https://github.com/sepidehdalir/tutorweft",
+      "production_status_updated_at": "2026-10-23"
     }
   ]
 }
