@@ -2,7 +2,7 @@
 
 Custom-order costs, a considered customer quote and a balance kept in view. Native Universal iPhone and iPad, minimum iOS/iPadOS15.
 
-**Status — October23,2026:** In production. Current simulator/native QA and a signed App Store distribution export have dated private evidence. Physical-device and genuine Sandbox checks, app-specific privacy publication and joint App Review submission remain pending. No approval or public release is claimed.
+**Status — October23,2026:** App1.0(1), Annual Pro, Lifetime Pro and required subscription group jointly submitted to Apple. Actual receipt confirms four items submitted and app Waiting for Review. Physical native QA passed23/23; publisher separately reports genuine Apple-explicit Sandbox purchase/restore and requested workflows passed. App-specific DataNotCollected privacy responses are published. Shipping source is frozen; no Apple approval or public release is claimed.
 
 [Product tour](https://sepidehdalir.github.io/ordermargin/) · [Public showcase](https://github.com/sepidehdalir/ordermargin) · [Support](https://sepidehdalir.github.io/ordermargin/support.html) · [Privacy](https://sepidehdalir.github.io/ordermargin/privacy.html)
 
