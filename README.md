@@ -6,7 +6,7 @@
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
-This collection brings together **29 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
+This collection brings together **30 product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
 
 [Website](https://www.arvinify.com) · [GitHub](https://github.com/sepidehdalir) · [Email](mailto:hello@arvinify.com)
 
@@ -27,6 +27,7 @@ This collection brings together **29 product case studies**, including **11 apps
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
+| [OrderMargin: Custom Quotes](projects/ordermargin.md) | Materials, labor and overhead to a customer quote, estimated margin, manual deposits and local backups. | In production · native QA and App Store package preparation; not submitted or released. |
 | [Pairfolio: Before After Photos](projects/pairfolio.md) | Paired job photos, task completeness, readable client PDFs and portable local job backups. | App1.0(3) + Lifetime Pro submitted October22,2026 at22:18PDT · Waiting for Review; not released. |
 | [Beadmora: Fuse Bead Patterns](projects/beadmora.md) | Owned pictures to editable bead charts, counts and labeled PDF sections. | App1.0(3) + Lifetime Pro submitted October22,2026 · Waiting for Review; not yet released. |
 | [StageTap: Theatre Sound Cues](projects/stagetap.md) | Ordered local theatre sound cues, deliberate GO and a portable show backup. | App1.0(1) Rejected4.3(a); Lifetime Pro Ready for Review. Existing clarification posted; no binary resubmission or approval. |
