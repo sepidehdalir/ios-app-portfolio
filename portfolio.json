@@ -210,6 +210,16 @@
       "showcase": "https://github.com/sepidehdalir/ordermargin",
       "production_status_updated_at": "2026-10-23",
       "submission_id": "fa1ef78b-ba4b-45f2-9865-787b39f84c8d"
+    },
+    {
+      "slug": "paydaymap",
+      "name": "PaydayMap: Paycheck Budget",
+      "app_id": "6826393115",
+      "catalog_available": false,
+      "status": "In production October23,2026: signed1.0(1) uploaded and processing; final physical, Files, genuine Sandbox and privacy publication gates pending; not submitted or released.",
+      "case_study": "projects/paydaymap.md",
+      "showcase": "https://github.com/sepidehdalir/paydaymap",
+      "production_status_updated_at": "2026-10-23"
     }
   ]
 }
