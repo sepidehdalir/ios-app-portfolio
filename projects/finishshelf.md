@@ -1,6 +1,6 @@
 # FinishShelf: Project Pan
 
-**In production — October 23, 2026.** Native 1.0(1) and App Store distribution export are prepared. Device acceptance, genuine Apple Sandbox, final privacy publication, upload and App Review submission remain pending. No approval or public availability is claimed. TestFlight is skipped by publisher instruction.
+**In production — October 23, 2026.** Native 1.0(1) and the App Store distribution export are prepared. Xcode upload succeeded October 23 at 10:06 PM PDT; Apple reported processing had begun. Device acceptance, genuine Apple Sandbox, processed-build selection, final metadata/privacy publication and App Review submission remain pending. No approval or public availability is claimed. TestFlight is skipped by publisher instruction.
 
 [Product tour](https://sepidehdalir.github.io/finishshelf/) · [Support](https://sepidehdalir.github.io/finishshelf/support.html) · [Privacy](https://sepidehdalir.github.io/finishshelf/privacy.html) · [iOS portfolio](https://github.com/sepidehdalir/ios-app-portfolio)
 
