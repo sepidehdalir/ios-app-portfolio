@@ -1,6 +1,6 @@
 # PaydayMap: Paycheck Budget
 
-**In production · October 23, 2026.** Signed version1.0(1) uploaded and processing. Final device, Files, genuine Apple Sandbox and privacy publication checks remain open. No App Review submission, approval or release is claimed. TestFlight is skipped by publisher instruction.
+**Submitted · October 23, 2026 at 7:02 PM PDT.** App1.0(1), Annual Pro, Lifetime Pro and subscription group are all individually Waiting for Review; receipt2e6a41fb-fb40-44b1-b474-89b75bda50cd. V1 is frozen. No approval or public release is claimed. TestFlight is skipped by publisher instruction.
 
 [Product tour](https://sepidehdalir.github.io/paydaymap/) · [Public showcase](https://github.com/sepidehdalir/paydaymap) · [Workflow guide](https://sepidehdalir.github.io/paydaymap/support.html) · [Privacy](https://sepidehdalir.github.io/paydaymap/privacy.html)
 
@@ -20,7 +20,7 @@ Swift and SwiftUI, Foundation, StoreKit2, PDFKit/UIKit, UserNotifications, Local
 
 Integer minor-unit currency arithmetic, calendar dates with stored time zones, anchored recurrence revisions, serial atomic persistence and explicit archived-copy imports preserve manual records. CSV neutralizes spreadsheet formulas. PDF pagination checks preserve all100 distinct long-report records, including the final page. Failed writes preserve the prior durable state; unreadable originals require preservation before recovery.
 
-Dated iOS17 native regression:50 passed, including37 core/storage,7 native and6 local StoreKit cases. Separate UI checks cover corrections, Trash/restore/relaunch, local Annual Pro/forecast/Restore and widget opt-in. Current iPhone and landscape iPad captures and dark largest-text checks passed. The actual iOS15 runtime, spoken VoiceOver, physical printing and final owner device checks are unverified. Local StoreKit is distinct from genuine Apple Sandbox.
+Dated iOS17 native regression:50 passed, including37 core/storage,7 native and6 local StoreKit cases. Separate UI checks cover corrections, Trash/restore/relaunch, local Annual Pro/forecast/Restore and widget opt-in. Current iPhone and landscape iPad captures and dark largest-text checks passed. Real notification permission/scheduling and native Files save/import/relaunch checks passed. Physical native/core/storage QA passed44 selected cases; physical UI automation failures/interruption are not claimed as passes. The publisher separately reports all final installed-app workflows, authentication/widget privacy and genuine Apple-explicit Sandbox Annual FIRST then Lifetime purchases/restores passed. Actual iOS15 runtime, spoken VoiceOver and physical printing remain unverified. Local StoreKit and owner observations are distinct.
 
 ![Dedicated iPad campaign](https://sepidehdalir.github.io/paydaymap/assets/ipad-01.png)
 

@@ -216,10 +216,11 @@
       "name": "PaydayMap: Paycheck Budget",
       "app_id": "6826393115",
       "catalog_available": false,
-      "status": "In production October23,2026: signed1.0(1) uploaded and processing; final physical, Files, genuine Sandbox and privacy publication gates pending; not submitted or released.",
+      "status": "App1.0(1), Annual Pro, Lifetime Pro and subscription group jointly submitted October23,2026 at19:02PDT. All four Waiting for Review; V1 frozen; not approved or released.",
       "case_study": "projects/paydaymap.md",
       "showcase": "https://github.com/sepidehdalir/paydaymap",
-      "production_status_updated_at": "2026-10-23"
+      "production_status_updated_at": "2026-10-23",
+      "submission_id": "2e6a41fb-fb40-44b1-b474-89b75bda50cd"
     }
   ]
 }
