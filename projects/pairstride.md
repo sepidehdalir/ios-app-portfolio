@@ -1,25 +1,15 @@
 # Pairstride: Compare Videos
 
-One moment. Two points of view. Pairstride aligns two short local SDR videos at a manually marked event, then plays, scrubs and exports their common overlap on one timeline.
+**Candidate1.0(2), local and UNSUBMITTED — October23,2026.** Pairstride now connects manual video alignment to a complete review workflow: capture paired source frames, name a moment, write an observation, revisit the shared timeline and export a real-frame PDF review board alongside a checked comparison movie. Speed changes preserve source positions; changed alignment is explained rather than silently moving notes.
 
-**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. Earlier submission and QA milestones are historical; no new recovery-test pass is claimed. First app-specific clarification sent October20,2026; concrete feedback pending. No binary resubmission.
+Essential alignment,12 temporary working observations, PDF boards and720p side-by-side movies remain free. Optional stable Lifetime Pro retains owned projects, stacked1080p output and presets, now with version2 observations. Legacy version1 projects remain readable. Original clips and existing purchases are preserved. No automatic coaching, pose analysis, frame-perfect synchronization or medical judgment.
 
-[Product and support](https://sepidehdalir.github.io/pairstride/) · [Public showcase](https://github.com/sepidehdalir/pairstride) · [Privacy policy](https://sepidehdalir.github.io/pairstride/privacy.html)
+The last verified Apple1.0(1) rejection is Guideline4.3(a); Lifetime Pro Ready for Review. The first clarification is already posted. No new Apple reply, upload, resubmission,4.3 resolution or approval is claimed. Authentication is blocked. Native core/PDF/project-migration and phone/tablet journeys have dated evidence; expanded accessibility investigation and current physical/offline/human VoiceOver checks remain. Prior build1 owner device/Sandbox reports are historical. iOS26.5 local StoreKit configuration errors were not a billing pass. TestFlight publisher-skipped.
 
-<img src="https://raw.githubusercontent.com/sepidehdalir/pairstride/main/assets/iphone-01.png" width="250" alt="Pairstride: one moment, two points of view"><img src="https://raw.githubusercontent.com/sepidehdalir/pairstride/main/assets/iphone-02.png" width="250" alt="Manual matching moments"><img src="https://raw.githubusercontent.com/sepidehdalir/pairstride/main/assets/iphone-03.png" width="250" alt="A checked aligned comparison movie">
+[Product/support](https://sepidehdalir.github.io/pairstride/) · [Source-free showcase](https://github.com/sepidehdalir/pairstride) · [Privacy](https://sepidehdalir.github.io/pairstride/privacy.html)
 
-## Product
+<img src="https://raw.githubusercontent.com/sepidehdalir/pairstride/main/assets/iphone-01.png" width="250" alt="Manual shared comparison"><img src="https://raw.githubusercontent.com/sepidehdalir/pairstride/main/assets/iphone-03.png" width="250" alt="Paired source-time observations"><img src="https://raw.githubusercontent.com/sepidehdalir/pairstride/main/assets/iphone-04.png" width="250" alt="Native PDF review board">
 
-A complete free workflow includes two-clip manual alignment, linked playback, 1× / ½× / ¼× speed, labels, one available source audio or mute and labeled 720p side-by-side export. A separate checked movie can be reviewed, saved to Files or Photos, or shared. Original clips remain unchanged.
+SwiftUI, AVFoundation, Core Image/Core Text, PhotosUI, StoreKit2 and native PDF/QuickLook. Candidate recovery includes checked-output preservation, bounded observations, source-time review, atomic report publication and versioned owned-project migration. Twelve dedicated iPhone/iPad marketing frames show actual current native UI and original illustrative motion; all final exports/thumbnails were visually reviewed. Commercial source and private evidence are independently backed up; no personal videos, archives or keys are public.
 
-Optional non-consumable Lifetime Pro adds up to 10 saved local projects with owned media, recoverable Trash, stacked portrait layout, 1080p export and up to 20 label/output presets. Active and trashed media share a 2 GB limit. No subscription, account, backend or tracking/analytics upload.
-
-## Engineering
-
-SwiftUI, AVFoundation, Core Image, Core Text, PhotosUI and StoreKit 2. A single composition and custom renderer drive both preview and export. The overlap plan makes retained source ranges explicit; completed output is checked for dimensions, duration, audio and decodable frames before atomic publication. Durable projects own their source copies and verify SHA-256 manifests on reopen.
-
-Native tests independently decode paired event flashes, compare rotated source corners to exported pixels, measure selected-source audio frequencies and slow-speed pitch, cancel in-flight exports and check original hashes. Storage tests cover relaunch/recovery, corruption preservation and Trash. Small iPhone / iOS 17, iPad / iOS 17 and current iPhone / iOS 26.5 workflows passed. Large type and Dark Mode were inspected; one exact-heading automated clipping false positive was manually documented. iOS 15 compilation is verified; that runtime was unavailable. The publisher reported the physical real-video import/alignment/audio/export/save workflow passed on iOS 26.1. The publisher also reported Apple-confirmed Sandbox purchase, saved-pair relaunch/reopen and restore passed. These reports are distinct from automated evidence; no production paid transaction is claimed.
-
-Public materials are source-free; commercial code is privately backed up. Original illustrative motion and authentic final app UI underpin a dedicated graphite, ivory, cobalt and burnt-orange campaign. Supported inputs and manual alignment / 30 fps SDR limitations are explicit.
-
-By **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · [hello@arvinify.com](mailto:hello@arvinify.com)
+By **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · hello@arvinify.com
