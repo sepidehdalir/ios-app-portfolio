@@ -29,7 +29,7 @@ This collection brings together **33 iOS product case studies**, including **11 
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
-| [FinishShelf: Project Pan](projects/finishshelf.md) | Owned beauty products, dated uses, remaining amounts and photo history to empties and native monthly cards. | In production: signed1.0(1) prepared; physical/Sandbox, final privacy and Apple review gates pending. |
+| [FinishShelf: Project Pan](projects/finishshelf.md) | Owned beauty products, dated uses, remaining amounts and photo history to empties and native monthly cards. | Submitted October23,2026:1.0(1), Annual, Lifetime and group all Waiting for Review; device/Sandbox and approved privacy complete. |
 | [PaydayMap: Paycheck Budget](projects/paydaymap.md) | Reserve bills, savings and a buffer before payday, with a daily estimate from recorded cash. | App1.0(1), Annual Pro, Lifetime Pro and subscription group jointly submitted October23,2026 at19:02PDT. All four Waiting for Review; V1 frozen; not approved or released. |
 | [Tutorweft: Lesson Packages](projects/tutorweft.md) | Lesson packages, session-credit history, manual payments, clear statements and local backups for independent tutors. | App1.0(1), Annual + Lifetime Pro and group submitted October23,2026 at12:53PDT · Waiting for Review; not released. |
 | [OrderMargin: Custom Quotes](projects/ordermargin.md) | Materials, labor and overhead to a customer quote, estimated margin, manual deposits and local backups. | App1.0(1) Rejected4.3(a), October23 11:08PDT; Annual + Lifetime Pro and group Ready for Review. Publisher-authorized clarification sent October23 14:28PDT; Apple response pending. No resubmission/release. |

@@ -1,6 +1,6 @@
 # FinishShelf: Project Pan
 
-**In production — October 23, 2026.** Native 1.0(1) and the App Store distribution export are prepared. Xcode upload succeeded October 23 at 10:06 PM PDT; Apple reported processing had begun. Device acceptance, genuine Apple Sandbox, processed-build selection, final metadata/privacy publication and App Review submission remain pending. No approval or public availability is claimed. TestFlight is skipped by publisher instruction.
+**Submitted for App Review — October 23, 2026 at 11:18 PM PDT.** Apple confirms all four items Waiting for Review: native1.0(1), Annual Pro, Lifetime Pro and the subscription group. Physical tests passed31selected cases; the owner confirmed the requested camera/Files/backup/recovery workflows and both Apple-explicit Sandbox purchase/restores. Approved Data Not Collected responses are published. No Apple approval or public App Store availability is claimed. TestFlight is skipped by publisher instruction.
 
 [Product tour](https://sepidehdalir.github.io/finishshelf/) · [Support](https://sepidehdalir.github.io/finishshelf/support.html) · [Privacy](https://sepidehdalir.github.io/finishshelf/privacy.html) · [iOS portfolio](https://github.com/sepidehdalir/ios-app-portfolio)
 
@@ -14,7 +14,7 @@ Five original iPhone and five dedicated iPad marketing compositions use authenti
 
 Swift/SwiftUI, StoreKit 2, Foundation, UIKit/PDF, PhotosUI/ImageIO and UserNotifications. Universal iPhone + iPad, minimum iOS/iPadOS 15, built with SDK 26.5. Protected atomic local storage, image metadata removal, hash-checked streaming photo backups and validated fresh-ID archived imports preserve the shelf. Private notes are excluded from public card/PDF/CSV outputs. Generic local reminders omit product names and photos.
 
-Dated local QA includes 38 native cases on iOS 17; critical use/Undo/empty/relaunch, owned-photo/Files backup/import, local Annual-first/Lifetime Pro/CSV/Restore and real OS reminder-queue checks passed. Three corrected native output checks passed with complete A4/Letter footers. Current phone, iPad portrait and narrow iPad landscape layouts plus dark largest-text checks passed. Local StoreKit is distinct from genuine Apple Sandbox. Physical device acceptance, actual iOS 15 runtime, spoken VoiceOver and physical printing are not claimed here.
+Dated local QA includes 38 native cases on iOS 17; critical use/Undo/empty/relaunch, owned-photo/Files backup/import, local Annual-first/Lifetime Pro/CSV/Restore and real OS reminder-queue checks passed. Three corrected native output checks passed with complete A4/Letter footers. Current phone, iPad portrait and narrow iPad landscape layouts plus dark largest-text checks passed. Local StoreKit is distinct from genuine Apple Sandbox. Physical device checks and genuine Apple-explicit Sandbox acceptance were separately confirmed by the owner. Actual iOS15 runtime, spoken VoiceOver and physical printing are not claimed.
 
 ## Free and Pro
 
@@ -25,4 +25,3 @@ No developer backend, account, ads, analytics or tracking. Users deliberately ch
 This repository contains only the public website, reviewed marketing assets and this case study. Commercial app source, signing material and private QA evidence remain in a separate private repository.
 
 Sepideh Javanbakht Dalir · [Arvinify](https://www.arvinify.com) · hello@arvinify.com
-
