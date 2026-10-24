@@ -1,5 +1,8 @@
 # Phrasevale: Audio Shadowing
 
+**Phrasevale recovery — October24,2026:** Local candidate1.0(2) now provides a complete learner-led audio practice plan: listen with a speaking pause, optionally record, compare source then response, reflect, revisit and resume. Existing audio/backups and Lifetime Pro are preserved. Twelve dedicated native phone/tablet campaign frames and a signed actual build2 package are prepared. It remains UNSUBMITTED with current hardware/offline/human accessibility and Apple-access gates; retained audit diagnostics are not passed or hidden. No4.3 resolution, upload or approval is claimed. Interval Plain remains unchanged; Foldwisp is next for individual recovery. Earlier checkpoints retain their actual dates.
+
+
 **App 1.0 (1) rejected under Guideline4.3(a), October19,2026. Clarification response sent; Lifetime Pro Ready for Review. Not approved or released.**
 
 Built by Sepideh Javanbakht Dalir. Select a phrase from audio you own, listen at your pace, leave a speaking gap, record a response and compare by ear. This source-region/paired-response workflow is distinct from authoring recorded dialogue sequences.
