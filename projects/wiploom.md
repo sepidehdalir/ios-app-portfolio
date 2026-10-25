@@ -2,7 +2,7 @@
 
 A little closer to finished. A private cross-craft project completion studio for iPhone and iPad.
 
-**Status — October24,2026: production QA.** Local workflows, signed candidate exports and the original phone/tablet campaign are verified. Apple processed build1 and allten campaign screenshots; Data Not Collected is published and app+Lifetime Pro are ready together in a draft. Physical-device and genuine Apple Sandbox checks and final submission remain. Not submitted, approved or released.
+**Status — October24,2026 at20:06PDT: submitted, Waiting for Review.** Apple confirmed the joint two-item submission of iOS1.0(1) and Lifetime Pro. Data Not Collected is published, build1 and all ten campaign frames are processed. All44 selected physical native tests passed; the exact archived Release was installed and launched afterward. The owner reported all final workflows and Apple-explicit Sandbox Lifetime/Pro/relaunch/Restore passed. No Apple approval or public release is claimed.
 
 [Product tour](https://sepidehdalir.github.io/wiploom/) · [Guide](https://sepidehdalir.github.io/wiploom/support.html) · [Privacy](https://sepidehdalir.github.io/wiploom/privacy.html) · [Source-free showcase](https://github.com/sepidehdalir/wiploom)
 
@@ -24,7 +24,7 @@ Useful Free core with three active/paused projects and unlimited saved history. 
 
 ## Verification and shipping state
 
-49 distinct native cases passed October24: rules/input/timer, image/archive/storage, native outputs, local StoreKit and the actual generic OS queue. UI evidence includes priority/progress/partial finish/reopen, focus draft/review/single save, owned-photo/full backup/archived import/relaunch, local purchase/Free gate/fourth-project/Restore, actual Files PNG/PDF Quick Look and share cancellation. Current phone26.5, current iPad26.5 portrait/landscape/share, narrow iPad17 landscape and small iPhone17 largest text in light/dark are recorded separately. Genuine Apple Sandbox, physical camera/device, actual iOS15 runtime, spoken VoiceOver and physical printing are not inferred.
+49 distinct native cases passed October24: rules/input/timer, image/archive/storage, native outputs, local StoreKit and the actual generic OS queue. UI evidence includes priority/progress/partial finish/reopen, focus draft/review/single save, owned-photo/full backup/archived import/relaunch, local purchase/Free gate/fourth-project/Restore, actual Files PNG/PDF Quick Look and share cancellation. Current phone26.5, current iPad26.5 portrait/landscape/share, narrow iPad17 landscape and small iPhone17 largest text in light/dark are recorded separately. Physical-device workflows and genuine Apple Sandbox purchase/restore passed by direct owner report, separately from automated evidence. Actual iOS15 runtime, spoken VoiceOver and physical printing remain unverified.
 
 The signed candidate archive and matching device/App Store exports pass identity, signature and excluded-test-resource audits. A build and a published case study do not establish App Review submission or public availability. Commercial Swift source and private QA/release evidence remain in a separate private repository.
 
