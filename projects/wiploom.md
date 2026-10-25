@@ -2,7 +2,7 @@
 
 A little closer to finished. A private cross-craft project completion studio for iPhone and iPad.
 
-**Status — October24,2026: production QA.** Local workflows, signed candidate exports and the original phone/tablet campaign are verified. Physical-device and genuine Apple Sandbox checks, publisher privacy declaration and Apple release work remain. Not submitted, approved or released.
+**Status — October24,2026: production QA.** Local workflows, signed candidate exports and the original phone/tablet campaign are verified. Apple processed build1 and allten campaign screenshots; Data Not Collected is published and app+Lifetime Pro are ready together in a draft. Physical-device and genuine Apple Sandbox checks and final submission remain. Not submitted, approved or released.
 
 [Product tour](https://sepidehdalir.github.io/wiploom/) · [Guide](https://sepidehdalir.github.io/wiploom/support.html) · [Privacy](https://sepidehdalir.github.io/wiploom/privacy.html) · [Source-free showcase](https://github.com/sepidehdalir/wiploom)
 
