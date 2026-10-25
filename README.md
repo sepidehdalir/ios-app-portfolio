@@ -32,6 +32,7 @@ This collection brings together **34 iOS product case studies**, including **11 
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
+| [Pupdossier: Pet Care Records](projects/pupdossier.md) | Private owner-entered care history, original sources, chosen dates, recorded weights and deliberate PDF handoffs. | App1.0(2) + sole Lifetime Pro jointly submitted October25,2026 at13:51PDT; both Waiting for Review. Not approved or released. |
 | [Wiploom: Craft Projects](projects/wiploom.md) | One priority WIP, short focus sessions, correctable progress, conservative estimates and native completion records across crafts. | Production QA, October24,2026: signed candidate/local workflows and phone+iPad campaign verified; physical/Sandbox/privacy/Apple submission pending. Not released. |
 | [FinishShelf: Project Pan](projects/finishshelf.md) | Owned beauty products, dated uses, remaining amounts and photo history to empties and native monthly cards. | Submitted October23,2026:1.0(1), Annual, Lifetime and group all Waiting for Review; device/Sandbox and approved privacy complete. |
 | [PaydayMap: Paycheck Budget](projects/paydaymap.md) | Reserve bills, savings and a buffer before payday, with a daily estimate from recorded cash. | App1.0(1), Annual Pro, Lifetime Pro and subscription group jointly submitted October23,2026 at19:02PDT. All four Waiting for Review; V1 frozen; not approved or released. |
