@@ -29,3 +29,5 @@ The app has no account, analytics SDK, external AI or developer-operated documen
 **App Store record:** 6824577159 · **Version:** 1.0 (1), Rejected — recovery in progress.
 
 Built by [Sepideh Javanbakht Dalir](https://www.arvinify.com) · [hello@arvinify.com](mailto:hello@arvinify.com)
+
+**Development checkpoint — October25,2026:** A saved booklet print desk is implemented in the private recovery branch: paper/copy estimates, manual or automatic duplex, staged user checks, a complete sheet map and a separate instruction PDF. This is UNVERIFIED SOURCE WORK, not a tested or submitted build. Native verification is blocked by insufficient Mac storage; existing screenshots remain unchanged and do not show the new UI. No new upload, approval or4.3 resolution is claimed.
