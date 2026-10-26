@@ -221,6 +221,16 @@
       "showcase": "https://github.com/sepidehdalir/paydaymap",
       "production_status_updated_at": "2026-10-23",
       "submission_id": "2e6a41fb-fb40-44b1-b474-89b75bda50cd"
+    },
+    {
+      "slug": "priceglade",
+      "name": "Priceglade: Grocery Price Book",
+      "app_id": "6826994351",
+      "catalog_available": false,
+      "status": "In production October26,2026. Signed1.0(1) archive/export, native and actual UI checkpoints, Files recovery and dedicated campaigns verified. Physical-device, genuine Sandbox, privacy and Apple submission gates pending. Not submitted, approved or released.",
+      "case_study": "projects/priceglade.md",
+      "showcase": "https://github.com/sepidehdalir/priceglade",
+      "production_status_updated_at": "2026-10-26"
     }
   ]
 }

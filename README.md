@@ -11,7 +11,7 @@
 
 I build focused native iOS products: clear first-use experiences, reliable local workflows, deliberate visual identities and straightforward monetization.
 
-This collection brings together **35 iOS product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
+This collection brings together **36 iOS product case studies**, including **11 apps verified in the US App Store catalog on October 16, 2026**. Projects in review or development are labeled individually.
 
 [Website](https://www.arvinify.com) · [GitHub](https://github.com/sepidehdalir) · [Email](mailto:hello@arvinify.com)
 
@@ -32,6 +32,7 @@ This collection brings together **35 iOS product case studies**, including **11 
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
+| [Priceglade: Grocery Price Book](projects/priceglade.md) | Personal purchase history, compatible-unit pack comparison and reviewed on-device text drafts. | In production, October26,2026: signed1.0(1), native/UI QA and dedicated campaigns prepared; physical/Sandbox/privacy/submission pending. Not released. |
 | [Tendarchive: Home Maintenance](projects/tendarchive.md) | Owner-chosen maintenance dates, retained service facts, costs, provider/part snapshots and deliberate source/PDF handoffs. | App1.0(2), Annual Pro, Lifetime Pro and group jointly submitted October25,2026 at20:11PDT; all Waiting for Review. Not approved or released. |
 | [Pupdossier: Pet Care Records](projects/pupdossier.md) | Private owner-entered care history, original sources, chosen dates, recorded weights and deliberate PDF handoffs. | App1.0(2) + sole Lifetime Pro jointly submitted October25,2026 at13:51PDT; both Waiting for Review. Not approved or released. |
 | [Wiploom: Craft Projects](projects/wiploom.md) | One priority WIP, short focus sessions, correctable progress, conservative estimates and native completion records across crafts. | Production QA, October24,2026: signed candidate/local workflows and phone+iPad campaign verified; physical/Sandbox/privacy/Apple submission pending. Not released. |
