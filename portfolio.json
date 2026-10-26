@@ -227,7 +227,7 @@
       "name": "Priceglade: Grocery Price Book",
       "app_id": "6826994351",
       "catalog_available": false,
-      "status": "In production October26,2026. Signed1.0(1) archive/export, native and actual UI checkpoints, Files recovery and dedicated campaigns verified. Physical-device, genuine Sandbox, privacy and Apple submission gates pending. Not submitted, approved or released.",
+      "status": "Build1.0(2) uploaded, processed and selected October26,2026. Fifty native and two selected UI checks passed; current phone/iPad campaign flows and signed-package audit passed. Physical-device execution/final Release installation, genuine Sandbox, privacy publication and joint submission remain pending. Not submitted, approved or released.",
       "case_study": "projects/priceglade.md",
       "showcase": "https://github.com/sepidehdalir/priceglade",
       "production_status_updated_at": "2026-10-26"

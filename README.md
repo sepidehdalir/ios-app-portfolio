@@ -34,7 +34,7 @@ This collection brings together **36 iOS product case studies**, including **11 
 
 | Product | Product purpose | Status |
 | --- | --- | --- |
-| [Priceglade: Grocery Price Book](projects/priceglade.md) | Personal purchase history, compatible-unit pack comparison and reviewed on-device text drafts. | In production, October26,2026: signed1.0(1), native/UI QA and dedicated campaigns prepared; physical/Sandbox/privacy/submission pending. Not released. |
+| [Priceglade: Grocery Price Book](projects/priceglade.md) | Personal purchase history, compatible-unit pack comparison and reviewed on-device text drafts. | Build1.0(2) uploaded and selected October26,2026; 52native/selectedUI checks and current phone/iPad campaigns passed. Physical/Sandbox/privacy/submission pending. Not released. |
 | [Tendarchive: Home Maintenance](projects/tendarchive.md) | Owner-chosen maintenance dates, retained service facts, costs, provider/part snapshots and deliberate source/PDF handoffs. | App1.0(2), Annual Pro, Lifetime Pro and group jointly submitted October25,2026 at20:11PDT; all Waiting for Review. Not approved or released. |
 | [Pupdossier: Pet Care Records](projects/pupdossier.md) | Private owner-entered care history, original sources, chosen dates, recorded weights and deliberate PDF handoffs. | App1.0(2) + sole Lifetime Pro jointly submitted October25,2026 at13:51PDT; both Waiting for Review. Not approved or released. |
 | [Wiploom: Craft Projects](projects/wiploom.md) | One priority WIP, short focus sessions, correctable progress, conservative estimates and native completion records across crafts. | Production QA, October24,2026: signed candidate/local workflows and phone+iPad campaign verified; physical/Sandbox/privacy/Apple submission pending. Not released. |

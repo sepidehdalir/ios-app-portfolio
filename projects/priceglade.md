@@ -1,27 +1,45 @@
 # Priceglade: Grocery Price Book
 
-Remember what you paid. Compare equal quantities using your own recorded purchases.
+<img src="https://raw.githubusercontent.com/sepidehdalir/priceglade/main/assets/icon.png" width="96" alt="Priceglade paired-tag icon">
 
-[Product showcase](https://sepidehdalir.github.io/priceglade/) · [Guide & support](https://sepidehdalir.github.io/priceglade/support.html) · [Privacy](https://sepidehdalir.github.io/priceglade/privacy.html)
+**Remember what you paid. Compare packs on one clear basis.**
 
-![Priceglade original iPhone campaign](https://raw.githubusercontent.com/sepidehdalir/priceglade/main/assets/campaign/iphone-01.png)
+[Product and guide](https://sepidehdalir.github.io/priceglade/) · [Privacy](https://sepidehdalir.github.io/priceglade/privacy.html) · [iOS portfolio](https://github.com/sepidehdalir/ios-app-portfolio)
 
-## A private price book with a clear basis
+**Production checkpoint — October 26, 2026. Version 1.0 (2) is uploaded. The app is not submitted, approved or released.** Physical execution, final device installation, genuine Sandbox workflows and Apple privacy/submission gates remain pending. TestFlight is skipped by publisher instruction.
 
-Record product, store, date, currency, quantity per pack, identical-pack count and total paid for all packs. Compare compatible quantities and retrieve personal latest, lowest, median and highest unit prices with sample counts and dates. Currencies stay separate. There is no retailer feed, market-lowest claim or bank connection.
+## The job
 
-Free includes ten active products, manual history, equivalent-quantity comparison, charts, corrections, Undo, archives, recoverable Trash and full JSON backup/recovery. Lifetime Pro adds more active products within device limits, new on-device Vision text scans, advanced filters and confirmed-purchase CSV. Apple supplies localized one-time pricing. Retained records and recovery remain accessible if Pro changes.
+Keep a personal record of actual purchases. Enter the product, store, date, currency, quantity per pack, identical-pack count and total paid for all packs. Compare compatible quantities and retrieve recorded latest, lowest, median and highest unit prices with dates and sample counts.
 
-Recognized text is unconfirmed. Users select lines, correct fields and explicitly review before Save. Images are transient and are not retained in the price book or backups. Recovery creates fresh archived copies while preserving current work and preferences.
+Three 500 g packs costing USD6 in total become 1.5 kg at USD4 per kg. The explicit pack basis prevents confusing a pack price with the total paid. Currencies stay separate. There is no live retailer feed, bank connection, market-lowest claim or exchange conversion.
 
-## Engineering and evidence
+## Product decisions
 
-Universal iPhone/iPad, deployment15.0/currentSDK26.5, SwiftUI, checked Decimal, explicit metric/US/Imperial quantities, immutable historical snapshots and bounded coordinated atomic protected JSON. StoreKit2 derives access from verified Apple transactions. No developer account, backend, tracking, advertising or analytics SDK.
+Free includes ten active products, reviewed manual entries, equivalent-quantity comparison, personal charts, stores and categories, corrections, Undo, archives, recoverable Trash and full JSON backup/recovery. Lifetime Pro adds more active products within device limits, new on-device text recognition, advanced filters and confirmed-purchase CSV. Apple supplies the localized one-time purchase price. Retained records and full recovery remain accessible if access changes.
 
-October26,2026: fifty native iOS17 cases passed, including domain calculations, real Vision recognition, atomic persistence, model failure rollback and local StoreKit states. Forty-six selected domain/native/model cases passed on the current iPad simulator. Actual UI checks cover reviewed pack totals, history/relaunch, pack comparison, saved scan drafts, free-limit/local-Pro behavior, completed local Restore Purchases, narrow landscape, dark largest-text keyboard use and correction/Undo/Trash/relaunch/archived restoration. Current phone and iPad campaign flows passed; ten primary compositions use authentic native UI and original fictional examples. Native Files JSON save/open/import/relaunch and CSV save/output inspection passed. Signed Archive/AppStore export and package privacy/resource/signature audits passed.
+Vision produces an unconfirmed text draft. Users select lines, correct fields and explicitly review before saving a purchase. Images are transient and are not retained with the book or backups. Recovery imports fresh archived copies while preserving current work and preferences.
 
-## Current production status
+## Engineering
 
-Version1.0(1) is **not submitted, approved or released**. Physical-device tests and exact Release installation, publisher workflows, genuine Apple-explicit no-charge Sandbox purchase/restoration, final privacy approval and Apple review package remain pending. Local StoreKit is separate from genuine Sandbox evidence. Actual iOS15 runtime and spoken VoiceOver remain unverified. TestFlight is skipped by publisher instruction.
+Universal iPhone and iPad, deployment target 15.0 with SDK 26.5. SwiftUI, checked Foundation Decimal calculations, explicit metric/US/Imperial quantities, currency minor-unit rules, immutable historical snapshots and bounded graph validation. Coordinated atomic protected JSON writes publish changes only after persistence succeeds and reject stale revisions.
 
-Commercial Swift code, tests, private QA and signing material remain private. No demand, revenue or search ranking is claimed.
+Vision runs on device; StoreKit 2 grants access from verified Apple transactions. Guarded URL links and exact Decimal display constants avoid forced unwraps in shipping code. No developer account, backend, advertising, tracking or analytics SDK.
+
+## Dated verification
+
+Build 2 passed 50 native iOS 17 cases covering calculation rules, real Vision recognition, persistence/recovery, model failures and local StoreKit states. Both selected screen checks passed: local Lifetime purchase/relaunch/completed Restore Purchases, and largest accessibility text with the paid amount visible above the keyboard. Current iPhone and iPad campaign flows also passed on build 2.
+
+Earlier dated checks cover the reviewed manual workflow, ten-product limit followed by local Pro access, saved scan drafts, corrections/Undo/Trash/relaunch/archived restoration, narrow landscape, dark text, and native Files JSON/CSV save/open and backup import. Forty-six selected domain/native/model cases passed on the current iPad simulator before the final constants cleanup. These checkpoints retain their individual source and device scopes.
+
+The signed build 2 archive and App Store export passed strict signature, identity, minimum-OS, Universal, privacy, resource and debug-hook audits. Apple confirmed upload succeeded. Local StoreKit and simulator evidence remain distinct from physical-device and genuine Sandbox verification. Actual iOS 15 runtime and spoken VoiceOver remain unverified.
+
+## Original campaign
+
+The first three frames communicate the value, equivalent-quantity workflow and personal result. iPad has dedicated compositions. All screens are authentic native UI with original fictional examples. Recognition demonstration lines and confidence values do not establish OCR accuracy. Full-size exports and thumbnail sheets were inspected.
+
+<img src="https://raw.githubusercontent.com/sepidehdalir/priceglade/main/assets/campaign/iphone-01.png" width="210" alt="Remember what you paid"> <img src="https://raw.githubusercontent.com/sepidehdalir/priceglade/main/assets/campaign/iphone-02.png" width="210" alt="Different packs, equal footing"> <img src="https://raw.githubusercontent.com/sepidehdalir/priceglade/main/assets/campaign/iphone-03.png" width="210" alt="Your personal price history">
+
+Commercial Swift source, tests, private QA artifacts and signing material remain private. No demand, revenue or search-ranking result is claimed.
+
+Publisher: **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · [hello@arvinify.com](mailto:hello@arvinify.com)
