@@ -30,6 +30,10 @@ This collection brings together **36 iOS product case studies**, including **11 
 
 <img src="https://raw.githubusercontent.com/sepidehdalir/foliolette-showcase/main/assets/01-Hero.png" alt="Foliolette print-to-size marketing artwork" width="260">
 
+## In development
+
+- [Obscut: Censor Video](projects/obscut.md) — find a private phrase on screen and in audio, then review a redacted copy before sharing.
+
 ## All iOS products
 
 | Product | Product purpose | Status |
